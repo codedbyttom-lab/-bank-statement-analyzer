@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Debug localStorage</title>
+</head>
+
+<body>
+  <h1>Debug Bank Analysis Data</h1>
+  <button onclick="showData()">Show localStorage Data</button>
+  <button onclick="clearData()">Clear localStorage</button>
+  <pre id="output" style="background: #f0f0f0; padding: 20px; margin-top: 20px;"></pre>
+
+  <script>
+    function showData() {
+      const data = localStorage.getItem('bankAnalysisData');
+      if (data) {
+        const parsed = JSON.parse(data);
+        document.getElementById('output').textContent = JSON.stringify(parsed, null, 2);
+        console.log('Parsed data:', parsed);
+      } else {
+        document.getElementById('output').textContent = 'No data in localStorage';
+      }
+    }
+
+    function clearData() {
+      localStorage.removeItem('bankAnalysisData');
+      document.getElementById('output').textContent = 'localStorage cleared';
+    }
+  </script>
+</body>
+
+</html>

@@ -16,6 +16,11 @@ function loadDashboardData() {
   
   try {
     const data = JSON.parse(storedData);
+    console.log('Raw data from localStorage:', data);
+    console.log('Money In Transactions:', data.money_in_transactions);
+    console.log('Money Out Transactions:', data.money_out_transactions);
+    console.log('Category Pie Summary:', data.category_pie_summary);
+    
     updateDashboard({
       success: true,
       total_income: data.money_in_total,
@@ -35,6 +40,8 @@ function loadDashboardData() {
 }
 
 function updateDashboard(data) {
+  console.log('updateDashboard called with:', data);
+  
   // Update total income
   document.getElementById('totalIncome').textContent = 
     formatCurrency(data.total_income);
@@ -47,8 +54,11 @@ function updateDashboard(data) {
   const moneyInContainer = document.getElementById('moneyInTransactions');
   moneyInContainer.innerHTML = '';
   
+  console.log('Processing money_in_transactions:', data.money_in_transactions);
+  
   if (data.money_in_transactions && data.money_in_transactions.length > 0) {
-    data.money_in_transactions.forEach((transaction) => {
+    data.money_in_transactions.forEach((transaction, index) => {
+      console.log(`Money In Transaction ${index}:`, transaction);
       const percentage = getDisplayPercentage(transaction.amount, data.total_income);
       const transactionDiv = document.createElement('div');
       transactionDiv.className = 'transaction-row';
@@ -62,14 +72,19 @@ function updateDashboard(data) {
       `;
       moneyInContainer.appendChild(transactionDiv);
     });
+  } else {
+    console.log('No money_in_transactions found or empty array');
   }
   
   // Update money out transactions
   const moneyOutContainer = document.getElementById('moneyOutTransactions');
   moneyOutContainer.innerHTML = '';
   
+  console.log('Processing money_out_transactions:', data.money_out_transactions);
+  
   if (data.money_out_transactions && data.money_out_transactions.length > 0) {
-    data.money_out_transactions.forEach((transaction) => {
+    data.money_out_transactions.forEach((transaction, index) => {
+      console.log(`Money Out Transaction ${index}:`, transaction);
       const percentage = getDisplayPercentage(transaction.amount, data.total_expenditure);
       const transactionDiv = document.createElement('div');
       transactionDiv.className = 'transaction-row';
@@ -83,6 +98,8 @@ function updateDashboard(data) {
       `;
       moneyOutContainer.appendChild(transactionDiv);
     });
+  } else {
+    console.log('No money_out_transactions found or empty array');
   }
   
   // Update anomalies
@@ -115,10 +132,18 @@ function updateDashboard(data) {
   categoryPieLegend.innerHTML = '';
   categoryPieChart.style.background = 'rgba(255, 255, 255, 0.15)';
   
+  console.log('Processing category_pie_summary:', data.category_pie_summary);
+  
   if (data.category_pie_summary && data.category_pie_summary.length > 0) {
-    const pieCategories = data.category_pie_summary.map(cat => [cat.category, cat.total]);
+    console.log('Mapping pie categories...');
+    const pieCategories = data.category_pie_summary.map(cat => {
+      console.log('Category:', cat);
+      return [cat.category, cat.total];
+    });
+    console.log('Pie categories mapped:', pieCategories);
     renderCategoryPieChart(pieCategories, categoryPieChart, categoryPieLegend);
   } else {
+    console.log('No category_pie_summary found or empty array');
     categoryPieChart.style.background = 'rgba(255, 255, 255, 0.15)';
     categoryPieLegend.innerHTML = '<p>No pie data available</p>';
   }
