@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="homepage.css">
+  <title>Data Analysis</title>
+</head>
+
+<body>
+  <!-- <div class="banner">
+    <div class="banner-text">
+      <print> Capitec Bank</print>
+    </div>
+  </div> -->
+  <div class="wrapper">
+
+    <div class="money-summaries">
+      <div class="bar">
+        <div class="info">
+          <div class="money-in">
+            <h3> Money In</h3>
+            <h4 id="totalIncome">R 0.00</h4>
+            <div id="moneyInTransactions"></div>
+          </div>
+        </div>
+      </div>
+      <div class="bar">
+        <div class="info">
+          <div class="money-out">
+            <h3> Money Out</h3>
+            <h4 id="totalExpenditure">R 0.00</h4>
+            <div id="moneyOutTransactions"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="analytics">
+
+    <div class="anomaly">
+      <h3>Anomalies Detected</h3>
+      <div id="anomalyList">
+        <p>Loading...</p>
+      </div>
+    </div>
+
+    <div class="spending-summary">
+      <h3>Spending Summary</h3>
+      <div id="categoryPieSection" class="category-pie-section">
+        <div id="categoryPieChart" class="category-pie-chart"></div>
+        <div id="categoryPieLegend" class="category-pie-legend"></div>
+      </div>
+    </div>
+
+  </div>
+
+  <script src="dashboard.js"></script>
+</body>
+
+</html>
