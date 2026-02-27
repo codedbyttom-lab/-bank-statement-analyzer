@@ -4,28 +4,34 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 function loadDashboardData() {
-  fetch('/api/data')
-    .then(response => {
-      if (!response.ok) {
-        throw new Error('No data available');
-      }
-      return response.json();
-    })
-    .then(data => {
-      if (data.success) {
-        updateDashboard(data);
-      } else {
-        showError('Failed to load data');
-      }
-    })
-    .catch(error => {
-      console.error('Error:', error);
-      showError('No analysis data available. Please upload a CSV file first.');
-      // Redirect to upload page after 3 seconds
-      setTimeout(() => {
-        window.location.href = '/';
-      }, 3000);
+  const storedData = localStorage.getItem('bankAnalysisData');
+  
+  if (!storedData) {
+    showError('No analysis data available. Please upload a CSV file first.');
+    setTimeout(() => {
+      window.location.href = 'upload.html';
+    }, 3000);
+    return;
+  }
+  
+  try {
+    const data = JSON.parse(storedData);
+    updateDashboard({
+      success: true,
+      total_income: data.money_in_total,
+      total_expenditure: data.money_out_total,
+      money_in_transactions: data.money_in_transactions,
+      money_out_transactions: data.money_out_transactions,
+      category_pie_summary: data.category_pie_summary,
+      anomalies: data.anomalies
     });
+  } catch (error) {
+    console.error('Error parsing data:', error);
+    showError('Failed to load analysis data');
+    setTimeout(() => {
+      window.location.href = 'upload.html';
+    }, 3000);
+  }
 }
 
 function updateDashboard(data) {

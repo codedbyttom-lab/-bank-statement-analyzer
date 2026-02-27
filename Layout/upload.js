@@ -80,39 +80,37 @@ removeFile.addEventListener('click', (e) => {
 uploadButton.addEventListener('click', () => {
   if (!selectedFile) return;
 
-  // Create FormData to send file
-  const formData = new FormData();
-  formData.append('file', selectedFile);
-
   // Show loading state
   uploadButton.textContent = 'Analyzing...';
   uploadButton.disabled = true;
 
-  // Send file to server
-  fetch('/upload', {
-    method: 'POST',
-    body: formData
-  })
-  .then(response => {
-    if (!response.ok) {
-      return response.json().then(err => Promise.reject(err));
-    }
-    return response.json();
-  })
-  .then(data => {
-    if (data.success) {
+  // Read and analyze CSV file client-side
+  const reader = new FileReader();
+  reader.onload = function(e) {
+    try {
+      const csvText = e.target.result;
+      const analysisResults = analyzeBankStatement(csvText);
+      
+      // Store results in localStorage
+      localStorage.setItem('bankAnalysisData', JSON.stringify(analysisResults));
+      
       // Redirect to dashboard
-      window.location.href = data.redirect || '/dashboard';
-    } else {
-      throw new Error(data.error || 'Upload failed');
+      window.location.href = 'homepage.html';
+    } catch (error) {
+      console.error('Error:', error);
+      alert(error.message || 'Analysis failed. Please check your CSV format.');
+      uploadButton.textContent = 'Upload & Analyze';
+      uploadButton.disabled = false;
     }
-  })
-  .catch(error => {
-    console.error('Error:', error);
-    alert(error.error || error.message || 'Upload failed. Please try again.');
+  };
+  
+  reader.onerror = function() {
+    alert('Failed to read file. Please try again.');
     uploadButton.textContent = 'Upload & Analyze';
     uploadButton.disabled = false;
-  });
+  };
+  
+  reader.readAsText(selectedFile);
 });
 
 // Format file size
