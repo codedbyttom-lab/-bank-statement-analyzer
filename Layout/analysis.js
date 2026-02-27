@@ -33,7 +33,7 @@ function analyzeBankStatement(csvText) {
     const moneyOutTotal = data.reduce((sum, row) => sum + Math.abs(row['Money Out']), 0);
 
     const moneyInTransactions = data
-        .filter(row => row['Money In'] > 0)
+        .filter(row => Math.abs(row['Money In']) > 0)
         .sort((a, b) => Math.abs(b['Money In']) - Math.abs(a['Money In']))
         .slice(0, 5)
         .map(row => ({
@@ -43,7 +43,7 @@ function analyzeBankStatement(csvText) {
         }));
 
     const moneyOutTransactions = data
-        .filter(row => row['Money Out'] > 0)
+        .filter(row => Math.abs(row['Money Out']) > 0)
         .sort((a, b) => Math.abs(b['Money Out']) - Math.abs(a['Money Out']))
         .slice(0, 5)
         .map(row => ({
