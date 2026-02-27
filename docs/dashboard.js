@@ -49,12 +49,12 @@ function updateDashboard(data) {
   
   if (data.money_in_transactions && data.money_in_transactions.length > 0) {
     data.money_in_transactions.forEach((transaction) => {
-      const percentage = getDisplayPercentage(transaction['Money In'], data.total_income);
+      const percentage = getDisplayPercentage(transaction.amount, data.total_income);
       const transactionDiv = document.createElement('div');
       transactionDiv.className = 'transaction-row';
       transactionDiv.innerHTML = `
         <div class="text">
-          <print>${transaction.Description || 'Unknown'}: R ${formatNumber(transaction['Money In'])}</print>
+          <print>${transaction.description || 'Unknown'}: R ${formatNumber(transaction.amount)}</print>
         </div>
         <div class="progress-bar">
           <span class="money" style="width: ${percentage}%"></span>
@@ -70,12 +70,12 @@ function updateDashboard(data) {
   
   if (data.money_out_transactions && data.money_out_transactions.length > 0) {
     data.money_out_transactions.forEach((transaction) => {
-      const percentage = getDisplayPercentage(transaction['Money Out'], data.total_expenditure);
+      const percentage = getDisplayPercentage(transaction.amount, data.total_expenditure);
       const transactionDiv = document.createElement('div');
       transactionDiv.className = 'transaction-row';
       transactionDiv.innerHTML = `
         <div class="text">
-          <print>${transaction.Description || 'Unknown'}: R ${formatNumber(transaction['Money Out'])}</print>
+          <print>${transaction.description || 'Unknown'}: R ${formatNumber(transaction.amount)}</print>
         </div>
         <div class="progress-bar">
           <span class="money-out-bar" style="width: ${percentage}%"></span>
@@ -115,11 +115,8 @@ function updateDashboard(data) {
   categoryPieLegend.innerHTML = '';
   categoryPieChart.style.background = 'rgba(255, 255, 255, 0.15)';
   
-  if (data.category_summary && Object.keys(data.category_summary).length > 0) {
-    const pieCategories = data.category_pie_summary
-      ? Object.entries(data.category_pie_summary)
-      : Object.entries(data.category_summary);
-
+  if (data.category_pie_summary && data.category_pie_summary.length > 0) {
+    const pieCategories = data.category_pie_summary.map(cat => [cat.category, cat.total]);
     renderCategoryPieChart(pieCategories, categoryPieChart, categoryPieLegend);
   } else {
     categoryPieChart.style.background = 'rgba(255, 255, 255, 0.15)';
