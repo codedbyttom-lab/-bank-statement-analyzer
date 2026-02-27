@@ -43,7 +43,7 @@ function handleFile(file) {
 
   // Check file type
   if (!file.name.endsWith('.csv')) {
-    alert('Please upload a cAPITEC BANK CSV file');
+    alert('Please upload a CAPITEC BANK CSV file');
     return;
   }
 
