@@ -1,0 +1,1095 @@
+Nr,Posting Date,Transaction Date,Description,Original Description,Parent Category,Category,Money In,Money Out,Fee,Balance
+1,1/1/2024,12/30/2023 18:17,Card Purchase: Debonairs Durban North (Card 4719),Debonairs Pizza        Durban North   ZA,Food,Takeaways,,-219.9,,435.78
+2,1/2/2024,1/2/2024 3:56,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.1,,435.68
+3,1/2/2024,1/2/2024 12:17,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-100,,335.68
+4,1/2/2024,1/2/2024 12:17,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,335.18
+5,1/3/2024,1/3/2024 1:01,Payment Received: N Tom,N TOM,Other Income,Other Income,50,,,385.18
+6,1/3/2024,1/3/2024 1:01,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-50,,335.18
+7,1/3/2024,1/3/2024 1:01,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,334.68
+8,1/4/2024,1/1/2024 12:44,Card Purchase: Superbalist Cape Town (Card 4719),Superbalist com 2      CAPE TOWN    WCZA,Personal & Family,Online Store,,-196,,138.68
+9,1/4/2024,1/2/2024 12:45,Card Purchase: Apple.com Itunes.com (Card 4719),APPLE.COM/BILL         ITUNES.COM   IRIE,Personal & Family,Online Store,,-59.99,,78.69
+10,1/4/2024,1/2/2024 12:45,International Processing Fee: Apple.com/bill,APPLE.COM/BILL         ITUNES.COM     IE|REC_RECURRING_TXN,Fees,Fees,,,-3,75.69
+11,1/5/2024,1/5/2024 3:05,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-4.01,,71.68
+12,1/9/2024,1/8/2024 23:08,Payment Received: N Tom,N TOM,Other Income,Other Income,70,,,141.68
+13,1/9/2024,1/9/2024 14:07,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-70,,71.68
+14,1/9/2024,1/9/2024 14:07,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,71.18
+15,1/11/2024,1/11/2024 18:52,Banking App Transfer from Live Better Savings Account (1780225111),Banking App Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,22,,,93.18
+16,1/11/2024,1/11/2024 18:53,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-26,,67.18
+17,1/11/2024,1/11/2024 18:53,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,66.68
+18,1/16/2024,1/14/2024 18:15,Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,31.69
+19,1/16/2024,1/14/2024 18:15,International Processing Fee: Spotifyza,SpotifyZA              Stockholm      SE|REC_RECURRING_TXN,Fees,Fees,,,-3,28.69
+20,1/18/2024,1/18/2024 19:44,Payment Received: N Tom,N TOM,Other Income,Other Income,100,,,128.69
+21,1/22/2024,1/22/2024 12:47,Payment Received: N Tom,N TOM,Other Income,Other Income,200,,,328.69
+22,1/22/2024,1/22/2024 14:23,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-102,,226.69
+23,1/22/2024,1/22/2024 14:23,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,226.19
+24,1/28/2024,1/27/2024 22:00,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-102,,124.19
+25,1/28/2024,1/27/2024 22:00,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,123.69
+26,1/31/2024,1/31/2024 19:58,Payment Received: N Tom,N TOM,Other Income,Other Income,300,,,423.69
+27,1/31/2024,1/31/2024 22:49,Interest Received,Interest Received,Interest,Interest,0.45,,,424.14
+28,1/31/2024,1/31/2024 22:49,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7,417.14
+29,2/2/2024,1/31/2024 20:08,Card Purchase: Debonairs Durban North (Card 4719),Debonairs Pizza        Durban North   ZA,Food,Takeaways,,-219.9,,197.24
+30,2/2/2024,2/2/2024 11:27,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-102,,95.24
+31,2/2/2024,2/2/2024 11:27,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,94.74
+32,2/3/2024,2/3/2024 3:00,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.1,,94.64
+33,2/4/2024,2/2/2024 12:45,Card Purchase: Apple.com Itunes.com (Card 4719),APPLE.COM/BILL         ITUNES.COM   IRIE,Personal & Family,Online Store,,-59.99,,34.65
+34,2/4/2024,2/2/2024 12:45,International Processing Fee: Apple.com/bill,APPLE.COM/BILL         ITUNES.COM     IE|REC_RECURRING_TXN,Fees,Fees,,,-3,31.65
+35,2/5/2024,2/5/2024 2:10,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.01,,31.64
+36,2/6/2024,2/6/2024 12:30,Payment Received: N Tom,N TOM,Other Income,Other Income,150,,,181.64
+37,2/7/2024,2/7/2024 20:02,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-50,,131.64
+38,2/7/2024,2/7/2024 20:02,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,131.14
+39,2/10/2024,2/9/2024 23:18,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-101,,30.14
+40,2/10/2024,2/9/2024 23:18,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,29.64
+41,2/11/2024,2/11/2024 17:11,Payment Received: N Tom,N TOM,Other Income,Other Income,1100,,,1129.64
+42,2/15/2024,2/12/2024 9:17,Shoprite Welkom (Card 4719),Shoprite Boitumelo Jun WELKOM         ZA,Food,Groceries,,-983.1,,146.54
+43,2/15/2024,2/15/2024 17:40,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-79,,67.54
+44,2/15/2024,2/15/2024 17:40,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,67.04
+45,2/16/2024,2/14/2024 18:15,Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,32.05
+46,2/16/2024,2/14/2024 18:15,International Processing Fee: Spotifyza,SpotifyZA              Stockholm      SE|REC_RECURRING_TXN,Fees,Fees,,,-3,29.05
+47,2/24/2024,2/24/2024 17:15,Payment Received: B Deppa,B DEPPA,Other Income,Other Income,400,,,429.05
+48,2/25/2024,2/25/2024 12:47,ATM Cash Withdrawal: Sparkatm Central University Of Twelkom Fsza,SparkATM Central University Of TWelkom       FSZA,Cash,Cash Withdrawal,,-100,,329.05
+49,2/25/2024,2/25/2024 12:47,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-9.5,319.55
+50,2/29/2024,2/26/2024 12:53,Shoprite Welkom (Card 4719),Shoprite Boitumelo Jun WELKOM         ZA,Food,Groceries,,-221.13,,98.42
+51,2/29/2024,2/29/2024 16:25,Payment Received: N Tom,N TOM,Other Income,Other Income,1200,,,1298.42
+52,2/29/2024,2/29/2024 23:17,Interest Received,Interest Received,Interest,Interest,0.87,,,1299.29
+53,2/29/2024,2/29/2024 23:17,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7,1292.29
+54,3/1/2024,3/1/2024 14:30,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8.87,,1283.42
+55,3/3/2024,3/2/2024 22:16,Payment Received: N Tom,N TOM,Other Income,Other Income,500,,,1783.42
+56,3/3/2024,3/2/2024 22:16,Capitec Pay Payment: Dstv (543214515),543214515|DSTV,Uncategorised,Uncategorised,,-449,,1334.42
+57,3/3/2024,3/2/2024 22:16,Capitec Pay Fee,Capitec Pay Fee,Fees,Fees,,,-1,1333.42
+58,3/3/2024,3/1/2024 8:54,Card Purchase: Takealot Cape Town (Card 4719),Takealo*t              CAPE TOWN    WCZA,Personal & Family,Online Store,,-329,,1004.42
+59,3/4/2024,3/2/2024 12:45,Card Purchase: Apple.com Itunes.com (Card 4719),APPLE.COM/BILL         ITUNES.COM   IRIE,Personal & Family,Online Store,,-59.99,,944.43
+60,3/4/2024,3/2/2024 12:45,International Processing Fee: Apple.com/bill,APPLE.COM/BILL         ITUNES.COM     IE|REC_RECURRING_TXN,Fees,Fees,,,-2,942.43
+61,3/4/2024,3/1/2024 14:12,Shoprite Welkom (Card 4719),Shoprite Boitumelo Jun WELKOM         ZA,Food,Groceries,,-533.2,,409.23
+62,3/4/2024,3/1/2024 14:21,Purchase & Cash (R150.00): Shoprite Welkom (Card 4719),Shoprite Boitumelo Jun WELKOM         ZA,Food,Groceries,,-247.24,,161.99
+63,3/4/2024,3/1/2024 14:21,Till Cash Withdrawal Fee,Shoprite Boitumelo Jun SB066143       ZA|PCB_POS_PURCH_CASHBACK,Fees,Fees,,,-2,159.99
+64,3/4/2024,3/4/2024 2:02,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-1.01,,158.98
+65,3/5/2024,3/5/2024 2:36,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-9.56,,149.42
+66,3/7/2024,3/5/2024 15:11,Jabba Investme Mangaung (Card 4719),Yoco   *Jabba Investme Mangaung     FSZA,Personal & Family,Other Personal & Family,,-37.8,,111.62
+67,3/8/2024,3/8/2024 3:39,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-2.2,,109.42
+68,3/16/2024,3/14/2024 18:15,Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,74.43
+69,3/16/2024,3/14/2024 18:15,International Processing Fee: Spotifyza,SpotifyZA              Stockholm      SE|REC_RECURRING_TXN,Fees,Fees,,,-2,72.43
+70,3/16/2024,3/16/2024 1:01,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.01,,67.42
+71,3/17/2024,3/17/2024 14:50,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-25,,42.42
+72,3/17/2024,3/17/2024 14:50,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,41.92
+73,3/17/2024,3/17/2024 14:51,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-11,,30.92
+74,3/17/2024,3/17/2024 14:51,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,30.42
+75,3/20/2024,3/20/2024 8:36,Payment Received: N Tom,N TOM,Other Income,Other Income,200,,,230.42
+76,3/20/2024,3/20/2024 13:41,ATM Cash Withdrawal: Sparkatm Central University Of Twelkom Fsza,SparkATM Central University Of TWelkom       FSZA,Cash,Cash Withdrawal,,-200,,30.42
+77,3/20/2024,3/20/2024 13:41,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,20.42
+78,3/23/2024,3/23/2024 14:03,Banking App Transfer from Live Better Savings Account (1780225111),Banking App Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,27,,,47.42
+79,3/23/2024,3/23/2024 14:03,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-17,,30.42
+80,3/23/2024,3/23/2024 14:03,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,29.92
+81,3/23/2024,3/23/2024 15:01,Payment Received: N Tom,N TOM,Other Income,Other Income,100,,,129.92
+82,3/23/2024,3/23/2024 15:06,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-72,,57.92
+83,3/23/2024,3/23/2024 15:06,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,57.42
+84,3/30/2024,3/30/2024 12:20,Payment Received: N Tom,N TOM,Other Income,Other Income,1200,,,1257.42
+85,3/30/2024,3/30/2024 13:13,Salon Yola 88203 Bloemfontein (Card 4719),0000     SALON YOLA        88203BLOEMFONTEIN FSZA,Uncategorised,Uncategorised,,-70,,1187.42
+86,3/31/2024,3/31/2024 20:07,Interest Received,Interest Received,Interest,Interest,0.77,,,1188.19
+87,3/31/2024,3/31/2024 20:07,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,1180.69
+88,4/1/2024,3/31/2024 23:01,Payment Received: N Tom,N TOM,Other Income,Other Income,100,,,1280.69
+89,4/1/2024,3/30/2024 14:58,H&M Westdene (Card 4719),H&M Loch Logan         WESTDENE     FSZA,Personal & Family,Clothing & Shoes,,-99,,1181.69
+90,4/1/2024,3/30/2024 14:31,The Fix Bloemfontein (Card 4719),The Fix Lochlogan      Bloemfontein   ZA,Personal & Family,Clothing & Shoes,,-151.49,,1030.2
+91,4/1/2024,3/30/2024 13:59,Cosmetic Connection Bloemfontein (Card 4719),COSMETIC CONNECTION BL Bloemfontein   ZA,Personal & Family,Personal Care,,-45.9,,984.3
+92,4/1/2024,4/1/2024 18:54,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-52,,932.3
+93,4/1/2024,4/1/2024 18:54,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,931.8
+94,4/2/2024,4/2/2024 1:44,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-13.61,,918.19
+95,4/3/2024,4/3/2024 9:40,Payment Received: N Tom,N TOM,Other Income,Other Income,1000,,,1918.19
+96,4/4/2024,4/2/2024 11:45,Card Purchase: Apple.com Cork (Card 4719),APPLE.COM/BILL         CORK         IRIE,Personal & Family,Online Store,,-59.99,,1858.2
+97,4/4/2024,4/2/2024 11:45,International Processing Fee: Apple.com/bill,APPLE.COM/BILL         CORK           IE|REC_RECURRING_TXN,Fees,Fees,,,-2,1856.2
+98,4/4/2024,4/4/2024 1:38,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.01,,1856.19
+99,4/4/2024,3/30/2024 14:08,YDE Bloemfontein (Card 4719),YDE 0819               BLOEMFONTEIN ZAZA,Personal & Family,Clothing & Shoes,,-200,,1656.19
+100,4/4/2024,4/4/2024 9:47,Payment Received: N Tom,N TOM,Other Income,Other Income,200,,,1856.19
+101,4/5/2024,4/3/2024 15:53,Card Purchase: Takealot Cape Town (Card 4719),Takealo*t              CAPE TOWN    WCZA,Personal & Family,Online Store,,-437,,1419.19
+102,4/5/2024,4/3/2024 14:24,Sportscene Welkom (Card 4719),Sportscene Goldfields  Welkom         ZA,Personal & Family,Sport & Hobbies,,-199.95,,1219.24
+103,4/5/2024,4/5/2024 11:50,Payment Received: N Tom,N TOM,Other Income,Other Income,560,,,1779.24
+104,4/5/2024,4/5/2024 12:00,Banking App Immediate Payment: Noxolo,NOXOLO,Personal & Family,Digital Payments,,-560,,1219.24
+105,4/5/2024,4/5/2024 12:00,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,1218.24
+106,4/5/2024,4/5/2024 12:03,Payment Received: N Tom,N TOM,Other Income,Other Income,560,,,1778.24
+107,4/5/2024,4/5/2024 12:16,Banking App External Payment: Dstv,DSTV,Entertainment,Digital Subscriptions,,-550,,1228.24
+108,4/5/2024,4/5/2024 12:16,External Payment Fee,External Payment Fee,Fees,Fees,,,-2,1226.24
+109,4/6/2024,4/3/2024 14:46,Checkers Welkom (Card 4719),Checkers Goldfields    WELKOM         ZA,Food,Groceries,,-73.16,,1153.08
+110,4/6/2024,4/3/2024 12:02,Shoprite Welkom (Card 4719),Shoprite Boitumelo Jun WELKOM         ZA,Food,Groceries,,-801.99,,351.09
+111,4/6/2024,4/6/2024 1:10,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-3.05,,348.04
+112,4/6/2024,4/3/2024 13:59,Choice Clothing Welkom (Card 4719),CHOICE CLOTHING WELK   WELKOM         ZA,Personal & Family,Clothing & Shoes,,-100.68,,247.36
+113,4/7/2024,4/7/2024 2:02,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-24.17,,223.19
+114,4/10/2024,4/8/2024 17:46,Dis-Chem Western Cape (Card 4719),Dischem Goldfields Mal WESTERN CAPE FSZA,Medical,Pharmacy,,-62.9,,160.29
+115,4/11/2024,4/11/2024 0:43,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-7.1,,153.19
+116,4/11/2024,4/11/2024 10:16,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-10,,143.19
+117,4/11/2024,4/11/2024 10:16,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,142.69
+118,4/11/2024,4/11/2024 10:24,Banking App Immediate Payment: Caff,CAFF,Personal & Family,Digital Payments,,-28,,114.69
+119,4/11/2024,4/11/2024 10:24,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,113.69
+120,4/13/2024,4/12/2024 23:05,Payment Received: N Tom,N TOM,Other Income,Other Income,150,,,263.69
+121,4/13/2024,4/12/2024 23:05,Payment Received: N Tom,N TOM,Other Income,Other Income,50,,,313.69
+122,4/13/2024,4/13/2024 15:22,Banking App Immediate Payment: Consigliere Map,CONSIGLIERE MAP,Personal & Family,Digital Payments,,-176,,137.69
+123,4/13/2024,4/13/2024 15:22,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,136.69
+124,4/13/2024,4/13/2024 16:57,Banking App Immediate Payment: Tyran,TYRAN,Personal & Family,Digital Payments,,-102,,34.69
+125,4/13/2024,4/13/2024 16:57,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,33.69
+126,4/13/2024,4/13/2024 18:02,Banking App Transfer from Live Better Savings Account (1780225111),Banking App Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,48,,,81.69
+127,4/15/2024,4/15/2024 10:34,Payment Received: Angelo Transfer 1702246121,Angelo                        TRANSFER  1702246121,Other Income,Other Income,100,,,181.69
+128,4/16/2024,4/15/2024 22:55,Banking App External Payment: Angilo Tyme,ANGILO TYME,Savings & Investments,Savings,,-100,,81.69
+129,4/16/2024,4/15/2024 22:55,External Payment Fee,External Payment Fee,Fees,Fees,,,-2,79.69
+130,4/16/2024,4/14/2024 18:15,Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,44.7
+131,4/16/2024,4/14/2024 18:15,International Processing Fee: Spotifyza,SpotifyZA              Stockholm      SE|REC_RECURRING_TXN,Fees,Fees,,,-2,42.7
+132,4/16/2024,4/16/2024 0:38,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.01,,37.69
+133,4/18/2024,4/18/2024 13:13,Payment Received: N Tom,N TOM,Other Income,Other Income,400,,,437.69
+134,4/21/2024,4/19/2024 16:25,Jabba Investme Mangaung (Card 4719),Yoco   *Jabba Investme Mangaung     FSZA,Personal & Family,Other Personal & Family,,-17.8,,419.89
+135,4/22/2024,4/22/2024 0:38,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-2.2,,417.69
+136,4/22/2024,4/20/2024 15:03,Hungry Lion Stellenbosch (Card 4719),HUNGRY LION WELKOM (CO STELLENBOSCH ZAZA,Food,Takeaways,,-64.9,,352.79
+137,4/22/2024,4/20/2024 15:24,Pick n Pay Welkom (Card 4719),PnP Crp Welkom         WELKOM       FSZA,Food,Groceries,,-33,,319.79
+138,4/22/2024,4/20/2024 15:32,S2s*krapkraptobacco Welkom (Card 4719),S2S*KRAPKRAPTOBACCO    Welkom       ZAZA,Food,Groceries,,-35,,284.79
+139,4/23/2024,4/23/2024 0:24,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-17.1,,267.69
+140,4/24/2024,4/20/2024 16:05,Checkers Welkom (Card 4719),Checkers Goldfields    WELKOM         ZA,Food,Groceries,,-87.16,,180.53
+141,4/25/2024,4/23/2024 13:37,Jabba Investme Mangaung (Card 4719),Yoco   *Jabba Investme Mangaung     FSZA,Personal & Family,Other Personal & Family,,-41.8,,138.73
+142,4/25/2024,4/25/2024 3:59,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-2.84,,135.89
+143,4/26/2024,4/26/2024 3:37,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8.2,,127.69
+144,4/26/2024,4/26/2024 12:05,ATM Cash Withdrawal: Sparkatm Central University Of Twelkom Fsza,SparkATM Central University Of TWelkom       FSZA,Cash,Cash Withdrawal,,-50,,77.69
+145,4/26/2024,4/26/2024 12:05,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,67.69
+146,4/30/2024,4/30/2024 10:40,Payment Received: N Tom,N TOM,Other Income,Other Income,1300,,,1367.69
+147,4/30/2024,4/30/2024 12:01,ATM Cash Withdrawal: Sparkatm Central University Of Twelkom Fsza,SparkATM Central University Of TWelkom       FSZA,Cash,Cash Withdrawal,,-50,,1317.69
+148,4/30/2024,4/30/2024 12:01,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,1307.69
+149,4/30/2024,4/30/2024 21:48,Interest Received,Interest Received,Interest,Interest,1.12,,,1308.81
+150,4/30/2024,4/30/2024 21:48,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,1301.31
+151,5/1/2024,5/1/2024 0:58,Payment Received: B Deppa,B DEPPA,Other Income,Other Income,500,,,1801.31
+152,5/1/2024,5/1/2024 16:21,Banking App Immediate Payment: Tyran,TYRAN,Personal & Family,Digital Payments,,-26,,1775.31
+153,5/1/2024,5/1/2024 16:21,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,1774.31
+154,5/2/2024,4/30/2024 14:30,Mr Price Welkom (Card 4719),MrP - Goldfields Welk. WELKOM       02ZA,Personal & Family,Clothing & Shoes,,-100,,1674.31
+155,5/3/2024,4/30/2024 23:03,Card Purchase: Takealot Cape Town (Card 4719),Takealo*t              CAPE TOWN    WCZA,Personal & Family,Online Store,,-533,,1141.31
+156,5/3/2024,5/3/2024 12:05,ATM Cash Withdrawal: Sparkatm Central University Of Twelkom Fsza,SparkATM Central University Of TWelkom       FSZA,Cash,Cash Withdrawal,,-100,,1041.31
+157,5/3/2024,5/3/2024 12:05,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,1031.31
+158,5/4/2024,5/2/2024 11:54,Card Purchase: Apple.com Itunes.com (Card 4719),APPLE.COM/BILL         ITUNES.COM   IRIE,Personal & Family,Online Store,,-59.99,,971.32
+159,5/4/2024,5/2/2024 11:54,International Processing Fee: Apple.com/bill,APPLE.COM/BILL         ITUNES.COM     IE|REC_RECURRING_TXN,Fees,Fees,,,-2,969.32
+160,5/4/2024,5/4/2024 1:31,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-7,,962.32
+161,5/4/2024,4/30/2024 14:57,Checkers Welkom (Card 4719),Checkers Goldfields    WELKOM         ZA,Food,Groceries,,-363.34,,598.98
+162,5/4/2024,4/30/2024 12:59,Shoprite Welkom (Card 4719),Shoprite Boitumelo Jun WELKOM         ZA,Food,Groceries,,-420.71,,178.27
+163,5/4/2024,5/4/2024 9:56,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-50,,128.27
+164,5/4/2024,5/4/2024 9:56,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,127.77
+165,5/4/2024,5/4/2024 10:39,Banking App Transfer from Live Better Savings Account (1780225111),Banking App Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,40,,,167.77
+166,5/4/2024,5/4/2024 10:48,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-10,,157.77
+167,5/4/2024,5/4/2024 10:48,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,157.27
+168,5/4/2024,5/4/2024 11:03,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-5,,152.27
+169,5/4/2024,5/4/2024 11:03,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,151.77
+170,5/4/2024,5/4/2024 11:36,ATM Cash Withdrawal: Sparkatm Roots Butchery Welkom Welkom Fsza,SparkATM Roots Butchery Welkom  Welkom       FSZA,Cash,Cash Withdrawal,,-100,,51.77
+171,5/4/2024,5/4/2024 11:36,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,41.77
+172,5/9/2024,5/9/2024 20:06,Payment Received: N Tom,N TOM,Other Income,Other Income,160,,,201.77
+173,5/10/2024,5/10/2024 10:49,ATM Cash Withdrawal: Sparkatm Central University Of Twelkom Fsza,SparkATM Central University Of TWelkom       FSZA,Cash,Cash Withdrawal,,-150,,51.77
+174,5/10/2024,5/10/2024 10:49,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,41.77
+175,5/14/2024,5/14/2024 15:19,Payment Received: T Meyer,T MEYER,Other Income,Other Income,20,,,61.77
+176,5/14/2024,5/14/2024 18:15,International Online Purchase Insufficient Funds Fee: Spotifyza Stockholm Se,INSF. FUNDS |          SpotifyZA              Stockholm      SE,Fees,Fees,,,-3,58.77
+177,5/14/2024,5/14/2024 18:18,Banking App Transfer from Live Better Savings Account (1780225111),Banking App Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,4,,,62.77
+178,5/14/2024,5/14/2024 18:47,Payment Received: T Meyer,T MEYER,Other Income,Other Income,5,,,67.77
+179,5/17/2024,5/16/2024 8:14,Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,32.78
+180,5/17/2024,5/16/2024 8:14,International Processing Fee: Spotifyza,SpotifyZA              Stockholm      SE|REC_RECURRING_TXN,Fees,Fees,,,-2,30.78
+181,5/25/2024,5/25/2024 13:32,Payment Received: B Deppa,B DEPPA,Other Income,Other Income,500,,,530.78
+182,5/27/2024,5/25/2024 13:59,Card Purchase: Takealot Cape Town (Card 4719),Takealo*t              CAPE TOWN    WCZA,Personal & Family,Online Store,,-277,,253.78
+183,5/28/2024,5/28/2024 5:04,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-3,,250.78
+184,5/28/2024,5/28/2024 11:23,Banking App Cash Sent: C*******330,C*******330,Cash,Cash Withdrawal,,-200,,50.78
+185,5/28/2024,5/28/2024 11:23,Cash Sent Fee,Cash Sent Fee,Fees,Fees,,,-10,40.78
+186,5/31/2024,5/31/2024 14:38,Payment Received: N Tom,N TOM,Other Income,Other Income,1200,,,1240.78
+187,5/31/2024,5/31/2024 14:44,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-150,,1090.78
+188,5/31/2024,5/31/2024 14:44,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,1090.28
+189,5/31/2024,5/31/2024 14:45,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-10,,1080.28
+190,5/31/2024,5/31/2024 14:45,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,1079.78
+191,5/31/2024,5/31/2024 22:03,Interest Received,Interest Received,Interest,Interest,0.7,,,1080.48
+192,5/31/2024,5/31/2024 22:03,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,1072.98
+193,6/1/2024,6/1/2024 0:43,Banking App Transfer to Second Acc: Transfer,Transfer,Transfer,Transfer,,-30,,1042.98
+194,6/1/2024,6/1/2024 0:43,Banking App Immediate Payment: Tyran,TYRAN,Personal & Family,Digital Payments,,-30,,1012.98
+195,6/1/2024,6/1/2024 0:43,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,1011.98
+196,6/1/2024,6/1/2024 1:23,Banking App Immediate Payment: Tyran,TYRAN,Personal & Family,Digital Payments,,-27,,984.98
+197,6/1/2024,6/1/2024 1:23,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,983.98
+198,6/1/2024,6/1/2024 1:35,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,30,,,1013.98
+199,6/2/2024,6/2/2024 9:43,Banking App Transfer to Second Acc: Transfer,Transfer,Transfer,Transfer,,-150,,863.98
+200,6/3/2024,5/31/2024 20:16,Funtasia Welkom (Card 4719),FUNTASIA               Welkom         ZA,Food,Restaurants,,-170,,693.98
+201,6/4/2024,6/2/2024 11:45,Card Purchase: Apple.com Itunes.com (Card 4719),APPLE.COM/BILL         ITUNES.COM   IRIE,Personal & Family,Online Store,,-59.99,,633.99
+202,6/4/2024,6/2/2024 11:45,International Processing Fee: Apple.com/bill,APPLE.COM/BILL         ITUNES.COM     IE|REC_RECURRING_TXN,Fees,Fees,,,-2,631.99
+203,6/4/2024,6/4/2024 4:32,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.01,,631.98
+204,6/5/2024,6/2/2024 9:50,Card Purchase: Mr D Food Cape Town (Card 4719),MR D FOOD              CAPE TOWN    WCZA,Food,Takeaways,,-215.44,,416.54
+205,6/6/2024,6/5/2024 23:40,Payment Received: Tcps Fundi Payment 220021payment 1803481798,TCPS      FUNDI PAYMENT 220021PAYMENT   1803481798,Other Income,Other Income,13710,,,14126.54
+206,6/6/2024,6/6/2024 3:30,Banking App Immediate Payment: Noxolo,NOXOLO,Personal & Family,Digital Payments,,-6000,,8126.54
+207,6/6/2024,6/6/2024 3:30,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,8125.54
+208,6/6/2024,6/6/2024 5:23,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-4.56,,8120.98
+209,6/8/2024,6/6/2024 12:48,Card Purchase: Takealot Cape Town (Card 4719),Takealo*t Absa 2       CAPE TOWN    WCZA,Personal & Family,Online Store,,-1722,,6398.98
+210,6/8/2024,6/6/2024 14:04,Jabba Investme Mangaung (Card 4719),Yoco   *Jabba Investme Mangaung     FSZA,Personal & Family,Other Personal & Family,,-41.8,,6357.18
+211,6/8/2024,6/8/2024 11:21,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,150,,,6507.18
+212,6/9/2024,6/9/2024 4:55,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-16.2,,6490.98
+213,6/10/2024,6/8/2024 11:14,Card Purchase: Mr D Food Cape Town (Card 4719),MR D FOOD              CAPE TOWN    WCZA,Food,Takeaways,,-208.47,,6282.51
+214,6/10/2024,6/10/2024 14:25,ATM Cash Withdrawal: Sparkatm Central University Of Twelkom Fsza,SparkATM Central University Of TWelkom       FSZA,Cash,Cash Withdrawal,,-250,,6032.51
+215,6/10/2024,6/10/2024 14:25,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,6022.51
+216,6/11/2024,6/11/2024 0:38,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-1.53,,6020.98
+217,6/12/2024,6/12/2024 11:00,Banking App Transfer to Second Acc: Transfer,Transfer,Transfer,Transfer,,-5780,,240.98
+218,6/12/2024,6/12/2024 11:45,ATM Cash Withdrawal: Sparkatm Central University Of Twelkom Fsza,SparkATM Central University Of TWelkom       FSZA,Cash,Cash Withdrawal,,-150,,90.98
+219,6/12/2024,6/12/2024 11:45,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,80.98
+220,6/13/2024,6/12/2024 23:11,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,800,,,880.98
+221,6/13/2024,6/10/2024 16:18,Bk Goldfields Mall Gt Welkom (Card 4719),BK Goldfields Mall GT  WELKOM         ZA,Food,Takeaways,,-60,,820.98
+222,6/14/2024,6/14/2024 11:58,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile|TWOVGJVKGSDR7,Uncategorised,Uncategorised,,-20,,800.98
+223,6/14/2024,6/14/2024 11:58,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,800.48
+224,6/14/2024,6/14/2024 12:00,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile|TWUDGIGJNPYW4,Uncategorised,Uncategorised,,-5,,795.48
+225,6/14/2024,6/14/2024 12:00,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,794.98
+226,6/14/2024,6/14/2024 20:29,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,260,,,1054.98
+227,6/14/2024,6/14/2024 20:29,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile|TAYCNNVRYEIZ2,Uncategorised,Uncategorised,,-380,,674.98
+228,6/14/2024,6/14/2024 20:29,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,674.48
+229,6/15/2024,6/13/2024 9:20,Card Purchase: Superbalist Foreshore (Card 4719),Superbalist.com        FORESHORE    WCZA,Personal & Family,Online Store,,-609,,65.48
+230,6/15/2024,6/15/2024 15:03,Payment Received: N Tom,N TOM,Other Income,Other Income,800,,,865.48
+231,6/15/2024,6/15/2024 15:16,Payment Received: B Deppa,B DEPPA,Other Income,Other Income,1700,,,2565.48
+232,6/15/2024,6/15/2024 16:49,Exc W/lim Sportscene Lochlogan Za,EXC W/LIM | Sportscene Lochlogan    ZA,,,,,,
+233,6/15/2024,6/15/2024 16:49,Card Purchase Limit Exceeded Fee: Sportscene Lochlogan Za,EXC W/LIM | Sportscene Lochlogan    ZA,Fees,Fees,,,-1,2564.48
+234,6/15/2024,6/15/2024 16:59,Cash Withdrawal: Dnr Bfn Waterfront Free State Fsza,DNR BFN Waterfront     Free State   FSZA,Cash,Cash Withdrawal,,-50,,2514.48
+235,6/15/2024,6/15/2024 16:59,Cash Withdrawal Fee,Cash Withdrawal Fee,Fees,Fees,,,-10,2504.48
+236,6/16/2024,6/14/2024 18:15,Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,2469.49
+237,6/16/2024,6/14/2024 18:15,International Processing Fee: Spotifyza,SpotifyZA              Stockholm      SE|REC_RECURRING_TXN,Fees,Fees,,,-2,2467.49
+238,6/16/2024,6/16/2024 0:58,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-6.01,,2461.48
+239,6/16/2024,6/16/2024 8:57,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,100,,,2561.48
+240,6/16/2024,6/16/2024 8:58,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,40,,,2601.48
+241,6/16/2024,6/16/2024 13:39,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,400,,,3001.48
+242,6/17/2024,6/15/2024 15:26,Clicks Bloemfontein (Card 4719),CLICKS LOCH LOGAN      Bloemfontein   ZA,Personal & Family,Personal Care,,-259.98,,2741.5
+243,6/17/2024,6/15/2024 16:50,Sportscene Bloemfontein (Card 4719),Sportscene Lochlogan   Bloemfontein   ZA,Personal & Family,Sport & Hobbies,,-399.95,,2341.55
+244,6/17/2024,6/15/2024 15:05,H&M Westdene (Card 4719),H&M Loch Logan         WESTDENE     FSZA,Personal & Family,Clothing & Shoes,,-391.72,,1949.83
+245,6/17/2024,6/15/2024 15:55,Woolworths Bloemfontein (Card 4719),WOOLWORTHS             BLOEMFONTEIN WCZA,Food,Groceries,,-249,,1700.83
+246,6/17/2024,6/15/2024 15:44,Woolworths Bloemfontein (Card 4719),WOOLWORTHS             BLOEMFONTEIN WCZA,Food,Groceries,,-107.98,,1592.85
+247,6/18/2024,6/18/2024 0:42,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-11.37,,1581.48
+248,6/18/2024,6/16/2024 14:09,Pick n Pay Clothing Bloemfontein (Card 4719),PnP Clt Loch Logan     BLOEMFONTEIN FSZA,Personal & Family,Clothing & Shoes,,-449.48,,1132
+249,6/19/2024,6/19/2024 0:14,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.52,,1131.48
+250,6/19/2024,6/17/2024 15:00,Spar Bloemfontein (Card 4719),Spar Meditas           Bloemfontein   ZA,Food,Groceries,,-77.14,,1054.34
+251,6/20/2024,6/20/2024 1:34,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-2.86,,1051.48
+252,6/20/2024,6/15/2024 16:30,Cotton On Bloemfontein (Card 4719),COTTON ON LOCH LOGAN C BLOEMFONTEIN   ZA,Personal & Family,Clothing & Shoes,,-659,,392.48
+253,6/21/2024,6/21/2024 1:55,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-1,,391.48
+254,6/24/2024,6/24/2024 14:30,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,100,,,491.48
+255,6/24/2024,6/24/2024 15:25,Banking App Transfer to Second Acc: Transfer,Transfer,Transfer,Transfer,,-80,,411.48
+256,6/24/2024,6/24/2024 15:26,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,160,,,571.48
+257,6/26/2024,6/24/2024 15:32,Card Purchase: Bash Parow East (Card 4719),Bash                   PAROW EAST   WCZA,Personal & Family,Clothing & Shoes,,-523.98,,47.5
+258,6/27/2024,6/27/2024 2:25,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-6.02,,41.48
+259,6/27/2024,6/27/2024 13:41,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-11,,30.48
+260,6/27/2024,6/27/2024 13:41,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,29.98
+261,6/28/2024,6/28/2024 17:28,Payment Received: N Tom,N TOM,Other Income,Other Income,400,,,429.98
+262,6/30/2024,6/28/2024 17:31,Card Purchase: Debonairs Durban North (Card 4719),Debonairs Pizza        Durban North   ZA,Food,Takeaways,,-252.89,,177.09
+263,6/30/2024,6/30/2024 21:36,Interest Received,Interest Received,Interest,Interest,5.21,,,182.3
+264,6/30/2024,6/30/2024 21:36,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,174.8
+265,7/1/2024,7/1/2024 0:39,Payment Received: Tcps Fundi Payment 220021payment 1846389643,TCPS      FUNDI PAYMENT 220021PAYMENT   1846389643,Other Income,Other Income,1650,,,1824.8
+266,7/1/2024,7/1/2024 9:59,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-7.11,,1817.69
+267,7/3/2024,7/3/2024 9:58,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-250,,1567.69
+268,7/3/2024,7/3/2024 9:58,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,1567.19
+269,7/4/2024,7/2/2024 11:45,Card Purchase: Apple.com Cork (Card 4719),APPLE.COM/BILL         CORK         IRIE,Personal & Family,Online Store,,-59.99,,1507.2
+270,7/4/2024,7/2/2024 11:45,International Processing Fee: Apple.com/bill,APPLE.COM/BILL         CORK           IE|REC_RECURRING_TXN,Fees,Fees,,,-2,1505.2
+271,7/4/2024,7/4/2024 10:55,Salon Yola 88203 Bloemfontein (Card 4719),000      SALON YOLA        88203BLOEMFONTEIN FSZA,Uncategorised,Uncategorised,,-120,,1385.2
+272,7/4/2024,7/4/2024 11:31,ATM Cash Withdrawal: 000000000009194 Bloemfontein Za,000000000009194        BLOEMFONTEIN   ZA,Cash,Cash Withdrawal,,-150,,1235.2
+273,7/4/2024,7/4/2024 11:31,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,1225.2
+274,7/4/2024,7/4/2024 16:01,Banking App Immediate Payment: Thato,THATO,Personal & Family,Children & Dependants,,-257,,968.2
+275,7/4/2024,7/4/2024 16:01,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,967.2
+276,7/5/2024,7/5/2024 0:48,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.01,,967.19
+277,7/6/2024,7/4/2024 11:29,Clicks Bloemfontein (Card 4719),CLICKS MIMOSA MALL     Bloemfontein   ZA,Personal & Family,Personal Care,,-703.4,,263.79
+278,7/7/2024,7/7/2024 1:34,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-6.6,,257.19
+279,7/10/2024,7/10/2024 9:43,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,600,,,857.19
+280,7/12/2024,7/10/2024 9:44,Card Purchase: Takealot Cape Town (Card 4719),Takealo*t              CAPE TOWN    WCZA,Personal & Family,Online Store,,-507,,350.19
+281,7/13/2024,7/13/2024 2:09,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-3,,347.19
+282,7/13/2024,7/10/2024 0:40,Card Purchase: Bob Shop Sandton (Card 4719),BOB SHOP               SANDTON        ZA,Personal & Family,Online Store,,-195,,152.19
+283,7/14/2024,7/14/2024 1:20,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5,,147.19
+284,7/14/2024,7/14/2024 19:04,Payment Received: H Belebesi,H BELEBESI,Other Income,Other Income,30,,,177.19
+285,7/15/2024,7/15/2024 10:27,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,150,,,327.19
+286,7/16/2024,7/14/2024 18:15,Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,292.2
+287,7/16/2024,7/14/2024 18:15,International Processing Fee,International Processing Fee,Fees,Fees,,,-2,290.2
+288,7/17/2024,7/17/2024 1:24,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.01,,285.19
+289,7/17/2024,7/15/2024 10:28,Card Purchase: Mr D Food Cape Town (Card 4719),MR D FOOD              CAPE TOWN    WCZA,Food,Takeaways,,-216.97,,68.22
+290,7/18/2024,7/18/2024 3:28,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-3.03,,65.19
+291,7/20/2024,7/20/2024 10:44,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,500,,,565.19
+292,7/20/2024,7/20/2024 11:22,Salon Yola 88203 Bloemfontein (Card 4719),000      SALON YOLA        88203BLOEMFONTEIN FSZA,Uncategorised,Uncategorised,,-140,,425.19
+293,7/20/2024,7/20/2024 12:09,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,50,,,475.19
+294,7/20/2024,7/20/2024 12:22,ATM Cash Withdrawal: Dnr Bloemfontein Mimosabloemfontein Fsza,DNR Bloemfontein MimosaBloemfontein FSZA,Cash,Cash Withdrawal,,-50,,425.19
+295,7/20/2024,7/20/2024 12:22,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,415.19
+296,7/20/2024,7/20/2024 13:17,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,340,,,755.19
+297,7/20/2024,7/20/2024 15:17,Banking App Transfer to Second Acc: Transfer,Transfer,Transfer,Transfer,,-50,,705.19
+298,7/20/2024,7/20/2024 16:17,Cannabis Dispen 141206 Bloemfontein (Card 4719),000      CANNABIS DISPEN  141206BLOEMFONTEIN FSZA,Uncategorised,Uncategorised,,-30,,675.19
+299,7/20/2024,7/20/2024 16:54,Banking App Immediate Payment: Milisa,MILISA,Personal & Family,Digital Payments,,-200,,475.19
+300,7/20/2024,7/20/2024 16:54,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,474.19
+301,7/22/2024,7/20/2024 12:10,Clicks Bloemfontein (Card 4719),CLICKS MIMOSA MALL     Bloemfontein   ZA,Personal & Family,Personal Care,,-229.09,,245.1
+302,7/22/2024,7/20/2024 11:28,Sportscene Bloemfontein (Card 4719),Sportscene Mimosa      Bloemfontein   ZA,Personal & Family,Sport & Hobbies,,-129.95,,115.15
+303,7/23/2024,7/23/2024 1:37,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.96,,114.19
+304,7/24/2024,7/20/2024 13:18,Cotton On Bloemfontein (Card 4719),COTTON ON LOCH LOGAN C BLOEMFONTEIN   ZA,Personal & Family,Clothing & Shoes,,-60,,54.19
+305,7/24/2024,7/24/2024 6:28,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,2000,,,2054.19
+306,7/26/2024,7/24/2024 6:41,Card Purchase: Takealot Cape Town (Card 4719),Takealo*t Absa 2       CAPE TOWN    WCZA,Personal & Family,Online Store,,-1620,,434.19
+307,7/29/2024,7/29/2024 11:12,Payment Received: N Tom,N TOM,Other Income,Other Income,200,,,634.19
+308,7/29/2024,7/29/2024 17:36,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,134,,,768.19
+309,7/29/2024,7/29/2024 17:54,Transfer from Live Better Savings Account (1780225111),Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,84,,,852.19
+310,7/31/2024,7/29/2024 17:33,Clicks Welkom (Card 4719),CLICKS GOLDFIELDS      Welkom         ZA,Personal & Family,Personal Care,,-335.83,,516.36
+311,7/31/2024,7/31/2024 10:38,Payment Received: N Tom,N TOM,Other Income,Other Income,1000,,,1516.36
+312,7/31/2024,7/31/2024 22:30,Interest Received,Interest Received,Interest,Interest,1.78,,,1518.14
+313,7/31/2024,7/31/2024 22:30,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,1510.64
+314,8/1/2024,7/29/2024 18:05,Checkers Welkom (Card 4719),Checkers Goldfields    WELKOM         ZA,Food,Groceries,,-427.62,,1083.02
+315,8/1/2024,8/1/2024 11:26,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-4.17,,1078.85
+316,8/1/2024,8/1/2024 14:23,Banking App Immediate Payment: Tyran,TYRAN,Personal & Family,Digital Payments,,-100,,978.85
+317,8/1/2024,8/1/2024 14:23,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,977.85
+318,8/2/2024,8/2/2024 7:25,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-2.38,,975.47
+319,8/2/2024,8/2/2024 8:20,Payment Received: B Deppa,B DEPPA,Other Income,Other Income,400,,,1375.47
+320,8/2/2024,8/2/2024 9:02,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-60,,1315.47
+321,8/2/2024,8/2/2024 9:02,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,1314.97
+322,8/4/2024,8/2/2024 11:45,Card Purchase: Apple.com Itunes.com (Card 4719),APPLE.COM/BILL         ITUNES.COM   IRIE,Personal & Family,Online Store,,-59.99,,1254.98
+323,8/4/2024,8/2/2024 11:45,International Processing Fee: Apple.com/bill,International Processing Fee: Apple.com/bill,Fees,Fees,,,-2,1252.98
+324,8/4/2024,8/2/2024 16:01,Mugg & Bean Welkom (Card 4719),MUGG  &  BEAN          Welkom         ZA,Food,Restaurants,,-85,,1167.98
+325,8/4/2024,8/4/2024 9:14,Payment Received: L Rakaku,L RAKAKU,Other Income,Other Income,30,,,1197.98
+326,8/4/2024,8/2/2024 14:55,Dis-Chem Western Cape (Card 4719),Dischem Goldfields Mal WESTERN CAPE FSZA,Medical,Pharmacy,,-415.03,,782.95
+327,8/4/2024,8/4/2024 19:16,Transfer from Live Better Savings Account (1780225111),Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,7,,,789.95
+328,8/4/2024,8/4/2024 19:17,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,6,,,795.95
+329,8/4/2024,8/4/2024 19:44,Banking App Immediate Payment: Tyran,TYRAN,Personal & Family,Digital Payments,,-235,,560.95
+330,8/4/2024,8/4/2024 19:44,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,559.95
+331,8/5/2024,8/5/2024 5:37,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-9.98,,549.97
+332,8/5/2024,8/2/2024 14:27,Shoprite Welkom (Card 4719),Shoprite Welkom        WELKOM         ZA,Food,Groceries,,-321.12,,228.85
+333,8/5/2024,8/3/2024 20:51,Fixa Solutions Welkom (Card 4719),Yoco   *Fixa Solutions Welkom       FSZA,Food,Restaurants,,-150,,78.85
+334,8/6/2024,8/6/2024 3:35,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8.88,,69.97
+335,8/7/2024,8/7/2024 16:21,Banking App Immediate Payment: Tyran,TYRAN,Personal & Family,Digital Payments,,-35,,34.97
+336,8/7/2024,8/7/2024 16:21,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,33.97
+337,8/10/2024,8/10/2024 10:45,Payment Received: N Tom,N TOM,Other Income,Other Income,300,,,333.97
+338,8/10/2024,8/10/2024 10:50,Banking App Immediate Payment: Caff,CAFF,Personal & Family,Digital Payments,,-36,,297.97
+339,8/10/2024,8/10/2024 10:50,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,296.97
+340,8/14/2024,8/14/2024 12:47,ATM Cash Withdrawal: Sparkatm Central University Of Twelkom Fsza,SparkATM Central University Of TWelkom       FSZA,Cash,Cash Withdrawal,,-50,,246.97
+341,8/14/2024,8/14/2024 12:47,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,236.97
+342,8/14/2024,8/14/2024 13:59,Pies 4 Sale And D105583 Welkom (Card 4719),000      PIES 4 SALE AND D105583WELKOM       FSZA,Other Income,Other Income,,-49.9,,187.07
+343,8/15/2024,8/15/2024 4:38,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.1,,186.97
+344,8/16/2024,8/14/2024 18:15,Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,151.98
+345,8/16/2024,8/16/2024 1:22,International Processing Fee,International Processing Fee,Fees,Fees,,,-2,149.98
+346,8/17/2024,8/17/2024 1:55,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.01,,144.97
+347,8/17/2024,8/14/2024 14:39,Checkers Welkom (Card 4719),Checkers Goldfields    WELKOM         ZA,Food,Groceries,,-64.46,,80.51
+348,8/17/2024,8/17/2024 19:49,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-20,,60.51
+349,8/17/2024,8/17/2024 19:49,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,60.01
+350,8/17/2024,8/17/2024 19:50,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-5,,55.01
+351,8/17/2024,8/17/2024 19:50,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,54.51
+352,8/18/2024,8/18/2024 2:29,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.54,,48.97
+353,8/25/2024,8/25/2024 15:58,Payment Received: N Tom,N TOM,Other Income,Other Income,400,,,448.97
+354,8/26/2024,8/26/2024 11:38,Transfer from Live Better Savings Account (1780225111),Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,29,,,477.97
+355,8/26/2024,8/26/2024 12:59,ATM Cash Withdrawal: Sparkatm Central University Of Twelkom Fsza,SparkATM Central University Of TWelkom       FSZA,Cash,Cash Withdrawal,,-50,,427.97
+356,8/26/2024,8/26/2024 12:59,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,417.97
+357,8/28/2024,8/26/2024 13:35,Clicks Welkom (Card 4719),CLICKS GOLDFIELDS      Welkom         ZA,Personal & Family,Personal Care,,-79.99,,337.98
+358,8/29/2024,8/26/2024 13:54,Checkers Welkom (Card 4719),Checkers Goldfields    WELKOM         ZA,Food,Groceries,,-259.02,,78.96
+359,8/29/2024,8/29/2024 4:15,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.01,,78.95
+360,8/30/2024,8/30/2024 5:01,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.98,,77.97
+361,8/30/2024,8/30/2024 17:08,Payment Received: N Tom,N TOM,Other Income,Other Income,1500,,,1577.97
+362,8/31/2024,8/31/2024 23:03,Interest Received,Interest Received,Interest,Interest,0.93,,,1578.9
+363,8/31/2024,8/31/2024 23:03,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,1571.4
+364,9/2/2024,9/2/2024 15:24,ATM Cash Withdrawal: Sparkatm Central University Of Twelkom Fsza,SparkATM Central University Of TWelkom       FSZA,Cash,Cash Withdrawal,,-200,,1371.4
+365,9/2/2024,9/2/2024 15:24,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,1361.4
+366,9/4/2024,9/2/2024 11:45,Card Purchase: Apple.com Itunes.com (Card 4719),APPLE.COM/BILL         ITUNES.COM   IRIE,Personal & Family,Online Store,,-59.99,,1301.41
+367,9/4/2024,9/4/2024 2:11,International Processing Fee,International Processing Fee,Fees,Fees,,,-2,1299.41
+368,9/4/2024,9/1/2024 11:43,Card Purchase: Mr D Food Cape Town (Card 4719),MR D FOOD              CAPE TOWN    WCZA,Food,Takeaways,,-182.94,,1116.47
+369,9/4/2024,9/2/2024 16:49,Dis-Chem Western Cape (Card 4719),Dischem Goldfields Mal WESTERN CAPE FSZA,Medical,Pharmacy,,-415.03,,701.44
+370,9/5/2024,9/2/2024 17:30,Checkers Welkom (Card 4719),Checkers Goldfields    WELKOM         ZA,Food,Groceries,,-267.72,,433.72
+371,9/5/2024,9/5/2024 3:11,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-12.04,,421.68
+372,9/6/2024,9/6/2024 3:04,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-2.28,,419.4
+373,9/7/2024,9/7/2024 14:54,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-60,,359.4
+374,9/7/2024,9/7/2024 14:54,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,358.9
+375,9/7/2024,9/7/2024 16:16,Banking App Immediate Payment: Tyran,TYRAN,Personal & Family,Digital Payments,,-55,,303.9
+376,9/7/2024,9/7/2024 16:16,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,302.9
+377,9/7/2024,9/7/2024 18:59,New Lantern Roadho97398 Welkom (Card 4719),000      NEW LANTERN ROADHO97398WELKOM       FSZA,Other Income,Other Income,,-132,,170.9
+378,9/8/2024,9/8/2024 3:28,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8,,162.9
+379,9/9/2024,9/9/2024 11:31,Transfer from Live Better Savings Account (1780225111),Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,23,,,185.9
+380,9/9/2024,9/9/2024 12:49,ATM Cash Withdrawal: Sparkatm Central University Of Twelkom Fsza,SparkATM Central University Of TWelkom       FSZA,Cash,Cash Withdrawal,,-150,,35.9
+381,9/9/2024,9/9/2024 12:49,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,25.9
+382,9/13/2024,9/13/2024 9:30,Payment Received: Rtc 056j21n6lm Movie Snacks,RTC 056J21N6LM Movie Snacks,Other Income,Other Income,100,,,125.9
+383,9/16/2024,9/14/2024 18:15,Recurring Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,90.91
+384,9/16/2024,9/16/2024 0:41,International Processing Fee,International Processing Fee,Fees,Fees,,,-2,88.91
+385,9/17/2024,9/17/2024 2:21,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.01,,83.9
+386,9/22/2024,9/22/2024 4:03,Payment Received: N Tom,N TOM,Other Income,Other Income,150,,,233.9
+387,9/22/2024,9/22/2024 11:15,ATM Cash Withdrawal: Dnr Welkom Power 180 Welkom Fsza,DNR Welkom Power 180   Welkom       FSZA,Cash,Cash Withdrawal,,-150,,83.9
+388,9/22/2024,9/22/2024 11:15,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,73.9
+389,9/22/2024,9/22/2024 11:26,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-40,,33.9
+390,9/22/2024,9/22/2024 11:26,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,33.4
+391,9/23/2024,9/23/2024 21:25,Payment Received: B Deppa,B DEPPA,Other Income,Other Income,500,,,533.4
+392,9/24/2024,9/23/2024 22:07,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-60,,473.4
+393,9/24/2024,9/23/2024 22:07,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,472.9
+394,9/24/2024,9/24/2024 18:00,Payment Received: N Tom,N TOM,Other Income,Other Income,100,,,572.9
+395,9/26/2024,9/25/2024 21:34,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-60,,512.9
+396,9/26/2024,9/25/2024 21:34,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,512.4
+397,9/27/2024,9/27/2024 11:00,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-48,,464.4
+398,9/27/2024,9/27/2024 11:00,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,463.9
+399,9/27/2024,9/25/2024 13:54,Spar Bloemfontein (Card 4719),Spar Meditas           Bloemfontein   ZA,Food,Groceries,,-35.63,,428.27
+400,9/28/2024,9/28/2024 4:57,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-4.37,,423.9
+401,9/28/2024,9/28/2024 15:38,ATM Cash Withdrawal: Absa Waterfront Food Bloemfontein Za,ABSA WATERFRONT FOOD   BLOEMFONTEIN   ZA,Cash,Cash Withdrawal,,-40,,383.9
+402,9/28/2024,9/28/2024 15:38,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,373.9
+403,9/30/2024,9/28/2024 14:46,The Fix Bloemfontein (Card 4719),The Fix Lochlogan      Bloemfontein   ZA,Personal & Family,Clothing & Shoes,,-331.49,,42.41
+404,9/30/2024,9/30/2024 23:13,Interest Received,Interest Received,Interest,Interest,0.84,,,43.25
+405,9/30/2024,9/30/2024 23:13,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,35.75
+406,10/1/2024,10/1/2024 14:04,Payment Received: N Tom,N TOM,Other Income,Other Income,1000,,,1035.75
+407,10/1/2024,10/1/2024 14:22,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8.51,,1027.24
+408,10/2/2024,10/2/2024 16:19,Payment Received: N Tom,N TOM,Other Income,Other Income,1200,,,2227.24
+409,10/3/2024,10/1/2024 14:30,Mr Price Willows (Card 4719),MR PRICE- LOCHLOGAN 41 WILLOWS      FSZA,Personal & Family,Clothing & Shoes,,-662.96,,1564.28
+410,10/3/2024,10/1/2024 15:06,Relay Jeans Bloemfontein (Card 4719),Relay Jeans Loch Logan Bloemfontein   ZA,Personal & Family,Clothing & Shoes,,-149,,1415.28
+411,10/3/2024,10/3/2024 19:28,Capitec Pay Payment: Clicks Online (CAPITEC1727976494603),CAPITEC1727976494603|CLICKS ONLINE,Uncategorised,Uncategorised,,-239.2,,1176.08
+412,10/3/2024,10/3/2024 19:28,Capitec Pay Fee,Capitec Pay Fee,Fees,Fees,,,-1,1175.08
+413,10/3/2024,10/3/2024 19:51,Transfer from Live Better Savings Account (1780225111),Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,18,,,1193.08
+414,10/4/2024,10/2/2024 11:45,Recurring Card Purchase: Apple.com Itunes.com (Card 4719),APPLE.COM/BILL         ITUNES.COM   IRIE,Personal & Family,Online Store,,-59.99,,1133.09
+415,10/4/2024,10/4/2024 1:02,International Processing Fee,International Processing Fee,Fees,Fees,,,-2,1131.09
+416,10/4/2024,10/4/2024 3:46,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8.04,,1123.05
+417,10/5/2024,10/3/2024 17:31,Clicks Welkom (Card 4719),CLICKS GOLDFIELDS      Welkom         ZA,Personal & Family,Personal Care,,-44.99,,1078.06
+418,10/5/2024,10/3/2024 16:09,Pick n Pay Welkom (Card 4719),PnP Crp Welkom         WELKOM       FSZA,Food,Groceries,,-315.06,,763
+419,10/5/2024,10/3/2024 16:16,Pep Home Welkom (Card 4719),PEP HOME 5806 WELKOM S WELKOM       FSZA,Personal & Family,Clothing & Shoes,,-99.99,,663.01
+420,10/6/2024,10/6/2024 7:43,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-9.96,,653.05
+421,10/6/2024,10/3/2024 17:51,Checkers Welkom (Card 4719),Checkers Goldfields    WELKOM         ZA,Food,Groceries,,-183.61,,469.44
+422,10/6/2024,10/3/2024 15:24,Shoprite Welkom (Card 4719),Shoprite Welkom        WELKOM         ZA,Food,Groceries,,-272.51,,196.93
+423,10/6/2024,10/3/2024 16:59,Liquorshop Goldfields Welkom (Card 4719),LiquorShop Goldfields  WELKOM         ZA,Entertainment,Alcohol,,-59.98,,136.95
+424,10/7/2024,10/7/2024 2:21,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-13.9,,123.05
+425,10/9/2024,10/9/2024 15:29,Transfer from Live Better Savings Account (1780225111),Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,12,,,135.05
+426,10/9/2024,10/9/2024 16:01,ATM Cash Withdrawal: Dnr Welkom Goldfield M2welkom Fsza,DNR Welkom Goldfield M2Welkom       FSZA,Cash,Cash Withdrawal,,-100,,35.05
+427,10/9/2024,10/9/2024 16:01,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,25.05
+428,10/11/2024,10/11/2024 9:59,Payment Received: N Tom,N TOM,Other Income,Other Income,200,,,225.05
+429,10/11/2024,10/11/2024 12:55,Payment Received: N Tom,N TOM,Other Income,Other Income,100,,,325.05
+430,10/11/2024,10/11/2024 13:01,ATM Cash Withdrawal: Dnr Welkom Power 180 Welkom Fsza,DNR Welkom Power 180   Welkom       FSZA,Cash,Cash Withdrawal,,-110,,215.05
+431,10/11/2024,10/11/2024 13:01,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,205.05
+432,10/11/2024,10/11/2024 13:07,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-53,,152.05
+433,10/11/2024,10/11/2024 13:07,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,151.55
+434,10/11/2024,10/11/2024 13:08,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-10,,141.55
+435,10/11/2024,10/11/2024 13:08,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,141.05
+436,10/12/2024,10/12/2024 14:54,Payment Received: N Tom,N TOM,Other Income,Other Income,500,,,641.05
+437,10/12/2024,10/12/2024 16:02,Payment Received: N Tom,N TOM,Other Income,Other Income,200,,,841.05
+438,10/14/2024,10/12/2024 15:02,Markham Bloemfontein (Card 4719),Markham Mimosa         Bloemfontein   ZA,Personal & Family,Clothing & Shoes,,-360.8,,480.25
+439,10/14/2024,10/12/2024 14:53,Starbucks Bloemfontein (Card 4719),STARBUCKS FX MIMOSA    Bloemfontein   ZA,Food,Takeaways,,-59,,421.25
+440,10/15/2024,10/15/2024 2:30,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-10.2,,411.05
+441,10/16/2024,10/14/2024 18:15,Recurring Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,376.06
+442,10/16/2024,10/16/2024 0:41,International Processing Fee,International Processing Fee,Fees,Fees,,,-2,374.06
+443,10/16/2024,10/12/2024 16:07,Checkers Bloemfontein (Card 4719),Checkers Mimosa Mall   BLOEMFONTEIN   ZA,Food,Groceries,,-241.3,,132.76
+444,10/17/2024,10/17/2024 1:58,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-13.71,,119.05
+445,10/17/2024,10/17/2024 15:11,Payment Received: N Tom,N TOM,Other Income,Other Income,350,,,469.05
+446,10/17/2024,10/17/2024 15:37,Payment Received: N Tom,N TOM,Other Income,Other Income,150,,,619.05
+447,10/19/2024,10/17/2024 16:20,Pick n Pay Clothing Welkom (Card 4719),PnP Clt Goldfields     WELKOM       FSZA,Personal & Family,Clothing & Shoes,,-129.99,,489.06
+448,10/19/2024,10/19/2024 11:51,ATM Cash Withdrawal: Dnr Welkom Goldfield M2welkom Fsza,DNR Welkom Goldfield M2Welkom       FSZA,Cash,Cash Withdrawal,,-50,,439.06
+449,10/19/2024,10/19/2024 11:51,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,429.06
+450,10/19/2024,10/19/2024 12:19,Payment Received: T Meyer,T MEYER,Other Income,Other Income,48,,,477.06
+451,10/19/2024,10/19/2024 12:35,Transfer from Live Better Savings Account (1780225111),Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,61,,,538.06
+452,10/20/2024,10/17/2024 17:39,Checkers Welkom (Card 4719),Checkers Goldfields    WELKOM         ZA,Food,Groceries,,-110.46,,427.6
+453,10/20/2024,10/20/2024 2:44,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.01,,427.59
+454,10/21/2024,10/21/2024 1:45,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-9.54,,418.05
+455,10/22/2024,10/19/2024 12:19,Dis-Chem Western Cape (Card 4719),Dischem Goldfields Mal WESTERN CAPE FSZA,Medical,Pharmacy,,-44.94,,373.11
+456,10/23/2024,10/23/2024 2:33,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.06,,368.05
+457,10/23/2024,10/19/2024 12:27,Liquorshop Goldfields Welkom (Card 4719),LiquorShop Goldfields  WELKOM         ZA,Entertainment,Alcohol,,-101.19,,266.86
+458,10/24/2024,10/24/2024 1:01,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8.81,,258.05
+459,10/24/2024,10/24/2024 11:56,Banking App Cash Sent: C*******494,C*******494,Cash,Cash Withdrawal,,-50,,208.05
+460,10/24/2024,10/24/2024 11:56,Cash Sent Fee,Cash Sent Fee,Fees,Fees,,,-10,198.05
+461,10/24/2024,10/24/2024 11:58,Transfer from Live Better Savings Account (1780225111),Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,23,,,221.05
+462,10/26/2024,10/26/2024 19:56,Banking App Immediate Payment: Summerrrr,SUMMERRRR,Personal & Family,Digital Payments,,-70,,151.05
+463,10/26/2024,10/26/2024 19:56,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,150.05
+464,10/26/2024,10/26/2024 20:11,Banking App Transfer to Second Acc: Transfer,Transfer,Transfer,Transfer,,-10,,140.05
+465,10/26/2024,10/26/2024 20:11,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-10,,130.05
+466,10/26/2024,10/26/2024 20:11,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,129.55
+467,10/27/2024,10/27/2024 9:39,Payment Received: N Tom,N TOM,Other Income,Other Income,400,,,529.55
+468,10/27/2024,10/27/2024 9:43,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-30,,499.55
+469,10/27/2024,10/27/2024 9:43,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,499.05
+470,10/27/2024,10/27/2024 9:43,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-14,,485.05
+471,10/27/2024,10/27/2024 9:43,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,484.55
+472,10/27/2024,10/27/2024 12:15,ATM Cash Withdrawal: Ncr Welkom Gm 50 Welkom Fsza,NCR  Welkom GM 50      Welkom       FSZA,Cash,Cash Withdrawal,,-50,,434.55
+473,10/27/2024,10/27/2024 12:15,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,424.55
+474,10/29/2024,10/29/2024 14:45,ATM Cash Withdrawal: Sparkatm Central University Of Twelkom Fsza,SparkATM Central University Of TWelkom       FSZA,Cash,Cash Withdrawal,,-50,,374.55
+475,10/29/2024,10/29/2024 14:45,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,364.55
+476,10/30/2024,10/27/2024 13:21,Checkers Welkom (Card 4719),Checkers Goldfields    WELKOM         ZA,Food,Groceries,,-260.32,,104.23
+477,10/30/2024,10/26/2024 19:57,Vps*wild And Out Pub Welkom (Card 4719),VPS*WILD AND OUT PUB   WELKOM         ZA,Food,Restaurants,,-50,,54.23
+478,10/31/2024,10/31/2024 0:24,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-9.68,,44.55
+479,10/31/2024,10/31/2024 13:48,Payment Received: N Tom,N TOM,Other Income,Other Income,1500,,,1544.55
+480,10/31/2024,10/31/2024 13:49,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-50,,1494.55
+481,10/31/2024,10/31/2024 13:49,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,1494.05
+482,10/31/2024,10/31/2024 13:50,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-5,,1489.05
+483,10/31/2024,10/31/2024 13:50,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,1488.55
+484,10/31/2024,10/31/2024 23:14,Interest Received,Interest Received,Interest,Interest,1.21,,,1489.76
+485,10/31/2024,10/31/2024 23:14,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,1482.26
+486,11/1/2024,11/1/2024 10:20,Banking App Transfer to Second Acc: Transfer,Transfer,Transfer,Transfer,,-600,,882.26
+487,11/1/2024,11/1/2024 11:06,Banking App Immediate Payment: Tyran,TYRAN,Personal & Family,Digital Payments,,-70,,812.26
+488,11/1/2024,11/1/2024 11:06,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,811.26
+489,11/1/2024,11/1/2024 11:10,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,100,,,911.26
+490,11/2/2024,11/2/2024 17:05,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,100,,,1011.26
+491,11/3/2024,11/1/2024 15:27,Card Purchase & Cashback (R250.00): Pick n Pay Welkom (Card 4719),PnP Fam Welkom         WELKOM       FSZA,Food,Groceries,,-266.99,,744.27
+492,11/3/2024,11/3/2024 5:39,Till Cash Withdrawal Fee,Till Cash Withdrawal Fee,Fees,Fees,,,-2,742.27
+493,11/3/2024,11/1/2024 17:04,Dis-Chem Western Cape (Card 4719),Dischem Goldfields Mal WESTERN CAPE FSZA,Medical,Pharmacy,,-366.28,,375.99
+494,11/3/2024,11/3/2024 8:22,Banking App Immediate Payment: Tyran,TYRAN,Personal & Family,Digital Payments,,-100,,275.99
+495,11/3/2024,11/3/2024 8:22,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,274.99
+496,11/4/2024,11/4/2024 0:48,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-6.73,,268.26
+497,11/4/2024,11/2/2024 11:45,Recurring Card Purchase: Apple.com Itunes.com (Card 4719),APPLE.COM/BILL         ITUNES.COM   IRIE,Personal & Family,Online Store,,-59.99,,208.27
+498,11/4/2024,11/4/2024 1:14,International Processing Fee,International Processing Fee,Fees,Fees,,,-2,206.27
+499,11/4/2024,11/1/2024 18:19,Checkers Welkom (Card 4719),Checkers Goldfields    WELKOM         ZA,Food,Groceries,,-156.41,,49.86
+500,11/5/2024,11/5/2024 0:22,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-3.6,,46.26
+501,11/7/2024,11/7/2024 15:33,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,200,,,246.26
+502,11/7/2024,11/7/2024 16:20,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,100,,,346.26
+503,11/10/2024,11/7/2024 16:22,Checkers Welkom (Card 4719),Checkers Goldfields    WELKOM         ZA,Food,Groceries,,-207.08,,139.18
+504,11/11/2024,11/11/2024 0:32,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-2.92,,136.26
+505,11/11/2024,11/10/2024 12:09,S2s*tastebite Riebeeckstad (Card 4719),S2S*TasteBite          Riebeeckstad ZAZA,Food,Groceries,,-66,,70.26
+506,11/12/2024,11/12/2024 0:04,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-4,,66.26
+507,11/13/2024,11/10/2024 12:11,Craib Drankwinkel Riebeeckstad (Card 4719),CRAIB DRANKWINKEL      RIEBEECKSTAD   ZA,Entertainment,Alcohol,,-12,,54.26
+508,11/13/2024,11/13/2024 11:13,Payment Received: N Tom,N TOM,Other Income,Other Income,600,,,654.26
+509,11/13/2024,11/13/2024 16:05,ATM Cash Withdrawal: Sparkatm Central University Of Twelkom Fsza,SparkATM Central University Of TWelkom       FSZA,Cash,Cash Withdrawal,,-100,,554.26
+510,11/13/2024,11/13/2024 16:05,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,544.26
+511,11/14/2024,11/14/2024 0:56,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8,,536.26
+512,11/14/2024,11/14/2024 13:01,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,110,,,646.26
+513,11/14/2024,11/14/2024 13:02,Transfer from Live Better Savings Account (1780225111),Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,35,,,681.26
+514,11/14/2024,11/14/2024 15:15,Payment Received: B Deppa,B DEPPA,Other Income,Other Income,500,,,1181.26
+515,11/14/2024,11/14/2024 15:39,Banking App External Payment: Nuty Angel,NUTY ANGEL,Uncategorised,Uncategorised,,-200,,981.26
+516,11/14/2024,11/14/2024 15:39,External Payment Fee,External Payment Fee,Fees,Fees,,,-2,979.26
+517,11/15/2024,11/13/2024 19:35,El Mexico Loco Ratanang (Card 4719),EL MEXICO LOCO         Ratanang       ZA,Food,Restaurants,,-320,,659.26
+518,11/15/2024,11/15/2024 13:06,Banking App Immediate Payment: Tyran,TYRAN,Personal & Family,Digital Payments,,-90,,569.26
+519,11/15/2024,11/15/2024 13:06,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,568.26
+520,11/15/2024,11/15/2024 13:48,ATM Cash Withdrawal: Sparkatm Central University Of Twelkom Fsza,SparkATM Central University Of TWelkom       FSZA,Cash,Cash Withdrawal,,-100,,468.26
+521,11/15/2024,11/15/2024 13:48,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,458.26
+522,11/15/2024,11/15/2024 14:46,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-20,,438.26
+523,11/15/2024,11/15/2024 14:46,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,437.76
+524,11/16/2024,11/14/2024 18:15,Recurring Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,402.77
+525,11/16/2024,11/16/2024 0:55,International Processing Fee,International Processing Fee,Fees,Fees,,,-2,400.77
+526,11/16/2024,11/14/2024 14:36,Pick n Pay Welkom (Card 4719),PnP Fam Welkom         WELKOM       FSZA,Food,Groceries,,-16.99,,383.78
+527,11/16/2024,11/14/2024 16:35,S2s*krapkrap2 Welkom (Card 4719),S2S*Krapkrap2          Welkom       ZAZA,Food,Groceries,,-37,,346.78
+528,11/17/2024,11/17/2024 0:17,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-11.02,,335.76
+529,11/19/2024,11/18/2024 23:28,Banking App Transfer to Second Acc: Transfer,Transfer,Transfer,Transfer,,-250,,85.76
+530,11/23/2024,11/23/2024 18:11,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-10,,75.76
+531,11/23/2024,11/23/2024 18:11,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,75.26
+532,11/26/2024,11/26/2024 8:30,Payment Received: B Deppa,B DEPPA,Other Income,Other Income,400,,,475.26
+533,11/30/2024,11/30/2024 22:57,Interest Received,Interest Received,Interest,Interest,0.7,,,475.96
+534,11/30/2024,11/30/2024 22:57,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,468.46
+535,12/2/2024,11/29/2024 15:43,Checkers Bloemfontein (Card 4719),CC Fresh X Universitas BLOEMFONTEIN   ZA,Food,Groceries,,-142.97,,325.49
+536,12/3/2024,12/2/2024 12:45,Recurring Card Purchase: Apple.com Itunes.com (Card 4719),APPLE.COM/BILL         ITUNES.COM   IRIE,Personal & Family,Online Store,,-59.99,,265.5
+537,12/3/2024,12/3/2024 1:47,International Processing Fee,International Processing Fee,Fees,Fees,,,-2,263.5
+538,12/4/2024,12/4/2024 0:11,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.01,,263.49
+539,12/7/2024,12/5/2024 12:15,Salon Yola Bloemfontein (Card 4719),SALON YOLA             Bloemfontein   ZA,Personal & Family,Personal Care,,-140,,123.49
+540,12/9/2024,12/9/2024 12:17,Payment Received: N Tom,N TOM,Other Income,Other Income,500,,,623.49
+541,12/11/2024,12/9/2024 15:14,The Fix Bloemfontein (Card 4719),The Fix Lochlogan      Bloemfontein   ZA,Personal & Family,Clothing & Shoes,,-79.99,,543.5
+542,12/11/2024,12/9/2024 15:37,Clicks Bloemfontein (Card 4719),CLICKS LOCH LOGAN      Bloemfontein   ZA,Medical,Pharmacy,,-39.98,,503.52
+543,12/11/2024,12/9/2024 14:33,Mr Price Willows (Card 4719),MR PRICE- LOCHLOGAN 41 WILLOWS      FSZA,Personal & Family,Clothing & Shoes,,-120,,383.52
+544,12/11/2024,12/9/2024 13:39,Dis-Chem Bloemfontein (Card 4719),Dischem Loch Logan     BLOEMFONTEIN FSZA,Medical,Pharmacy,,-251.94,,131.58
+545,12/12/2024,12/12/2024 2:01,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8.09,,123.49
+546,12/15/2024,12/15/2024 13:56,Payment Received: N Tom,N TOM,Other Income,Other Income,600,,,723.49
+547,12/16/2024,12/14/2024 18:15,Recurring Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,688.5
+548,12/16/2024,12/16/2024 2:04,International Processing Fee,International Processing Fee,Fees,Fees,,,-2,686.5
+549,12/17/2024,12/17/2024 1:46,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.01,,681.49
+550,12/19/2024,12/15/2024 14:37,Checkers Bloemfontein (Card 4719),CC Fresh X Universitas BLOEMFONTEIN   ZA,Food,Groceries,,-377.55,,303.94
+551,12/19/2024,12/16/2024 13:24,Online Purchase: Mr D Food Cape Town (Card 4719),MR D FOOD              CAPE TOWN    WCZA,Food,Takeaways,,-98.9,,205.04
+552,12/20/2024,12/20/2024 3:02,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-3.55,,201.49
+553,12/25/2024,12/21/2024 15:49,Spur Bloemfontein (Card 4719),FALCON LAKE SPUR       BLOEMFONTEIN   ZA,Food,Restaurants,,-117,,84.49
+554,12/26/2024,12/26/2024 5:51,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-3,,81.49
+555,12/30/2024,12/30/2024 16:14,Payment Received: B Deppa,B DEPPA,Other Income,Other Income,800,,,881.49
+556,12/30/2024,12/30/2024 16:22,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-9,,872.49
+557,12/30/2024,12/30/2024 16:22,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,871.99
+558,12/30/2024,12/30/2024 19:18,Transfer from Live Better Savings Account (1780225111),Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,35,,,906.99
+559,12/31/2024,1/1/2025 0:46,Interest Received,Interest Received,Interest,Interest,0.69,,,907.68
+560,12/31/2024,1/1/2025 0:46,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,900.18
+561,1/4/2025,1/2/2025 12:45,Recurring Card Purchase: Apple.com Itunes.com (Card 4719),APPLE.COM/BILL         ITUNES.COM   IRIE,Personal & Family,Online Store,,-59.99,,840.19
+562,1/4/2025,1/4/2025 3:08,International Processing Fee,International Processing Fee,Fees,Fees,,,-2,838.19
+563,1/4/2025,1/4/2025 13:07,Payment Received: N Tom,N TOM,Other Income,Other Income,1200,,,2038.19
+564,1/4/2025,12/30/2024 19:17,Online Purchase: Takealot Cape Town (Card 4719),Takealo*t Absa 2       CAPE TOWN    WCZA,Personal & Family,Online Store,,-293,,1745.19
+565,1/5/2025,1/5/2025 5:51,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-7.01,,1738.18
+566,1/6/2025,1/4/2025 13:53,YDE Fs (Card 4719),YDE 0819               FS           ZAZA,Personal & Family,Clothing & Shoes,,-200,,1538.18
+567,1/6/2025,1/4/2025 14:43,Edgars Westdene (Card 4719),V050-EDG LOCH LOGAN SB Westdene     ZAZA,Personal & Family,Clothing & Shoes,,-300,,1238.18
+568,1/6/2025,1/4/2025 15:23,H&M Westdene (Card 4719),H&M Loch Logan         WESTDENE     FSZA,Personal & Family,Clothing & Shoes,,-172.5,,1065.68
+569,1/6/2025,1/4/2025 15:25,H&M Westdene (Card 4719),H&M Loch Logan         WESTDENE     FSZA,Personal & Family,Clothing & Shoes,,-116.22,,949.46
+570,1/6/2025,1/4/2025 14:18,Dis-Chem Bloemfontein (Card 4719),Dischem Loch Logan     BLOEMFONTEIN FSZA,Medical,Pharmacy,,-422.77,,526.69
+571,1/6/2025,1/4/2025 15:02,McDonalds Willows (Card 4719),MCD Loch Logan  (0298) Willows        ZA,Food,Takeaways,,-82.4,,444.29
+572,1/6/2025,1/4/2025 14:34,Clicks Bloemfontein (Card 4719),CLICKS LOCH LOGAN      Bloemfontein   ZA,Medical,Pharmacy,,-145,,299.29
+573,1/7/2025,1/7/2025 9:03,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-31.11,,268.18
+574,1/8/2025,1/6/2025 12:41,Sportscene Bloemfontein (Card 4719),Sportscene Bloemfontei Bloemfontein   ZA,Personal & Family,Sport & Hobbies,,-201.1,,67.08
+575,1/9/2025,1/9/2025 4:13,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8.9,,58.18
+576,1/9/2025,1/9/2025 10:21,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-5,,53.18
+577,1/9/2025,1/9/2025 10:21,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,52.68
+578,1/14/2025,1/14/2025 9:59,Transfer from Live Better Savings Account (1780225111),Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,47,,,99.68
+579,1/16/2025,1/14/2025 18:15,Recurring Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,64.69
+580,1/16/2025,1/16/2025 1:13,International Processing Fee,International Processing Fee,Fees,Fees,,,-2,62.69
+581,1/17/2025,1/17/2025 0:33,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.01,,57.68
+582,1/31/2025,2/1/2025 1:48,Interest Received,Interest Received,Interest,Interest,0.56,,,58.24
+583,1/31/2025,2/1/2025 1:48,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,50.74
+584,2/2/2025,2/2/2025 12:45,Card Purchase Insufficient Funds Fee: Apple.com/bill Itunes.com Ie,INSF. FUNDS |          APPLE.COM/BILL         ITUNES.COM     IE,Fees,Fees,,,-3,47.74
+585,2/3/2025,2/3/2025 2:06,Card Purchase Insufficient Funds Fee: Apple.com/bill Itunes.com Ie,INSF. FUNDS |          APPLE.COM/BILL         ITUNES.COM     IE,Fees,Fees,,,-3,44.74
+586,2/3/2025,2/3/2025 14:16,Payment Received: N Tom,N TOM,Other Income,Other Income,250,,,294.74
+587,2/5/2025,2/5/2025 16:21,Payment Received: M Chomane,M CHOMANE,Other Income,Other Income,1300,,,1594.74
+588,2/6/2025,2/3/2025 17:56,Recurring Card Purchase: Apple.com Cork (Card 4719),APPLE.COM/BILL         CORK         IRIE,Personal & Family,Online Store,,-59.99,,1534.75
+589,2/6/2025,2/6/2025 1:40,International Processing Fee,International Processing Fee,Fees,Fees,,,-2,1532.75
+590,2/6/2025,2/6/2025 19:18,Payment Received: N Tom,N TOM,Other Income,Other Income,300,,,1832.75
+591,2/7/2025,2/7/2025 0:01,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.01,,1832.74
+592,2/8/2025,2/8/2025 11:06,Payment Received: N Tom,N TOM,Other Income,Other Income,2400,,,4232.74
+593,2/8/2025,2/8/2025 11:48,Banking App Immediate Payment: Loml Gasputia,LOML GASPUTIA,Personal & Family,Digital Payments,,-20,,4212.74
+594,2/8/2025,2/8/2025 11:48,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,4211.74
+595,2/9/2025,2/6/2025 21:49,Online Purchase: Takealot Cape Town (Card 4719),TAKEALO*T              CAPE TOWN    WCZA,Personal & Family,Online Store,,-213,,3998.74
+596,2/9/2025,2/9/2025 9:37,Banking App Immediate Payment: Mosa Chom,MOSA CHOM,Personal & Family,Digital Payments,,-1300,,2698.74
+597,2/9/2025,2/9/2025 9:37,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,2697.74
+598,2/10/2025,2/8/2025 11:14,Online Purchase: Superbalist Cape Town (Card 4719),Superbalist com 2      CAPE TOWN    WCZA,Personal & Family,Online Store,,-839,,1858.74
+599,2/10/2025,2/8/2025 11:09,Online Purchase: Superbalist Cape Town (Card 4719),Superbalist com 2      CAPE TOWN    WCZA,Personal & Family,Online Store,,-1398,,460.74
+600,2/10/2025,2/10/2025 6:30,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-7,,453.74
+601,2/11/2025,2/11/2025 6:03,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-3,,450.74
+602,2/11/2025,2/11/2025 9:37,Banking App Cash Sent: C*******217,C*******217,Cash,Cash Withdrawal,,-50,,400.74
+603,2/11/2025,2/11/2025 9:37,Cash Sent Fee,Cash Sent Fee,Fees,Fees,,,-10,390.74
+604,2/12/2025,2/10/2025 15:32,Central Univer Bloemfontein (Card 4719),Yoco   *Central Univer Bloemfontein FSZA,Food,Restaurants,,-20,,370.74
+605,2/16/2025,2/14/2025 18:15,Recurring Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,335.75
+606,2/16/2025,2/16/2025 3:20,International Processing Fee,International Processing Fee,Fees,Fees,,,-2,333.75
+607,2/17/2025,2/17/2025 1:33,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.01,,328.74
+608,2/22/2025,2/22/2025 14:24,Payment Received: N Tom,N TOM,Other Income,Other Income,1000,,,1328.74
+609,2/22/2025,2/22/2025 14:32,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-10,,1318.74
+610,2/22/2025,2/22/2025 14:32,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,1318.24
+611,2/22/2025,2/22/2025 16:07,Cash Deposit: Cash Dep Bloem Water Dnr Bfn Waterfront 2n,Cash Dep Bloem Water  DNR BFN Waterfront 2n,Cash Deposit,Cash Deposit,100,,,1418.24
+612,2/22/2025,2/22/2025 16:07,Cash Deposit Fee (Notes),Cash Deposit Fee (Notes),Fees,Fees,,,-1.4,1416.84
+613,2/24/2025,2/22/2025 14:57,Dis-Chem Bloemfontein (Card 4719),Dischem Loch Logan     BLOEMFONTEIN FSZA,Medical,Pharmacy,,-254.52,,1162.32
+614,2/24/2025,2/22/2025 15:02,Clicks Bloemfontein (Card 4719),CLICKS LOCH LOGAN      Bloemfontein   ZA,Medical,Pharmacy,,-119.97,,1042.35
+615,2/25/2025,2/25/2025 7:16,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.51,,1036.84
+616,2/26/2025,2/22/2025 16:00,Factorie Bloemfontein (Card 4719),FACTORIE LOCH LOGAN_RE BLOEMFONTEIN   ZA,Personal & Family,Clothing & Shoes,,-724.1,,312.74
+617,2/27/2025,2/25/2025 7:20,Online Purchase: Takealot Cape Town (Card 4719),TAKEALO*T              CAPE TOWN    WCZA,Personal & Family,Online Store,,-140,,172.74
+618,2/27/2025,2/27/2025 9:13,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.9,,166.84
+619,2/28/2025,2/28/2025 12:45,Payment Received: N Tom,N TOM,Other Income,Other Income,500,,,666.84
+620,2/28/2025,3/1/2025 0:54,Interest Received,Interest Received,Interest,Interest,1.43,,,668.27
+621,2/28/2025,3/1/2025 0:54,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,660.77
+622,3/1/2025,3/1/2025 13:08,Payment Received: N Tom,N TOM,Other Income,Other Income,700,,,1360.77
+623,3/1/2025,3/1/2025 13:17,Banking App Bill Payment (NMJLBQMIRHK0): rain,rain|NMJLBQMIRHK0|,Communication,Cellphone,,-625,,735.77
+624,3/1/2025,3/1/2025 13:17,Bill Payment Fee,Bill Payment Fee,Fees,Fees,,,-2,733.77
+625,3/3/2025,3/3/2025 11:39,Payment Received: N Tom,N TOM,Other Income,Other Income,2700,,,3433.77
+626,3/3/2025,3/3/2025 11:39,Exc W/lim Superbalist.com Za,EXC W/LIM | Superbalist.com ZA|MANUAL,,,,,,
+627,3/3/2025,3/3/2025 11:39,Online Purchase Limit Exceeded Fee: Superbalist.com Za,EXC W/LIM | Superbalist.com ZA|MANUAL,Fees,Fees,,,-1,3432.77
+628,3/4/2025,3/4/2025 13:49,Banking App Immediate Payment: Noxolo,NOXOLO,Personal & Family,Digital Payments,,-350,,3082.77
+629,3/4/2025,3/4/2025 13:49,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,3081.77
+630,3/5/2025,3/5/2025 17:39,Payment Received: B Deppa,B DEPPA,Other Income,Other Income,3000,,,6081.77
+631,3/5/2025,3/5/2025 21:30,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-20,,6061.77
+632,3/5/2025,3/5/2025 21:30,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,6061.27
+633,3/6/2025,3/3/2025 11:41,Online Purchase: Superbalist Foreshore (Card 4719),Superbalist.com        FORESHORE      ZA,Personal & Family,Online Store,,-2599,,3462.27
+634,3/7/2025,3/7/2025 8:51,Cnp Decline Yoco *boys Of Sow Za,CNP DECLINE | Yoco   *Boys of Sow ZA|MANUAL,,,,,,
+635,3/7/2025,3/7/2025 8:51,Decline Fee (Online Purchases Turned Off),CNP DECLINE | Yoco   *Boys of Sow ZA|MANUAL,Fees,Fees,,,-1,3461.27
+636,3/7/2025,3/7/2025 10:10,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-1,,3460.27
+637,3/8/2025,3/8/2025 14:03,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-10,,3450.27
+638,3/8/2025,3/8/2025 14:03,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,3449.77
+639,3/9/2025,3/7/2025 8:55,Online Purchase: Boys Of Sow Johannesburg (Card 4719),Yoco   *Boys of Sow    Johannesburg   ZA,Personal & Family,Other Personal & Family,,-1649,,1800.77
+640,3/9/2025,3/7/2025 11:06,Sportscene Bloemfontein (Card 4719),Sportscene Bloemfontei Bloemfontein   ZA,Personal & Family,Sport & Hobbies,,-301.1,,1499.67
+641,3/10/2025,3/10/2025 2:13,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-9.9,,1489.77
+642,3/10/2025,3/8/2025 14:56,Dis-Chem Bloemfontein (Card 4719),Dischem Loch Logan     BLOEMFONTEIN FSZA,Medical,Pharmacy,,-120.72,,1369.05
+643,3/10/2025,3/8/2025 15:29,Mr Price Willows (Card 4719),MR PRICE- LOCHLOGAN 41 WILLOWS      FSZA,Personal & Family,Clothing & Shoes,,-372.99,,996.06
+644,3/10/2025,3/8/2025 16:49,Pep Stores Bloemfontein (Card 4719),PEP 6389 Bloemfontein  BLOEMFONTEIN FSZA,Personal & Family,Clothing & Shoes,,-29.99,,966.07
+645,3/10/2025,3/10/2025 9:37,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-7,,959.07
+646,3/10/2025,3/10/2025 9:37,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,958.57
+647,3/11/2025,3/11/2025 4:12,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-16.3,,942.27
+648,3/12/2025,3/8/2025 16:38,Factorie Bloemfontein (Card 4719),FACTORIE LOCH LOGAN_RE BLOEMFONTEIN   ZA,Personal & Family,Clothing & Shoes,,-179.1,,763.17
+649,3/13/2025,3/13/2025 1:52,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.9,,762.27
+650,3/13/2025,3/10/2025 19:10,Fresko Gelato - Pax Bloemfontein (Card 4719),FRESKO GELATO - PAX    BLOEMFONTEIN   ZA,Food,Restaurants,,-76,,686.27
+651,3/14/2025,3/14/2025 6:55,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-4,,682.27
+652,3/16/2025,3/14/2025 18:15,Recurring Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,647.28
+653,3/16/2025,3/16/2025 1:35,International Processing Fee,International Processing Fee,Fees,Fees,,,-3,644.28
+654,3/17/2025,3/17/2025 0:33,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.01,,639.27
+655,3/17/2025,3/17/2025 14:21,Banking App Immediate Payment: Tyran,TYRAN,Personal & Family,Digital Payments,,-200,,439.27
+656,3/17/2025,3/17/2025 14:21,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,438.27
+657,3/18/2025,3/18/2025 10:24,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-15,,423.27
+658,3/18/2025,3/18/2025 10:24,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,422.77
+659,3/18/2025,3/18/2025 11:23,Payment Received: N Tom,N TOM,Other Income,Other Income,300,,,722.77
+660,3/18/2025,3/18/2025 11:38,Payment Received: Rtc 05tp21l9cn Save Me,RTC 05TP21L9CN save me,Other Income,Other Income,100,,,822.77
+661,3/18/2025,3/18/2025 15:10,Payment Received: Rtc 053kh5jbdn Gown Deposit,RTC 053KH5JBDN gown deposit,Other Income,Other Income,280,,,1102.77
+662,3/18/2025,3/18/2025 15:30,Banking App External PayShap Payment: House Of Grads,House Of Grads,Personal & Family,Digital Payments,,-280,,822.77
+663,3/18/2025,3/18/2025 15:30,External Immediate Payment Fee,|House Of Grads,Fees,Fees,,,-6,816.77
+664,3/18/2025,3/18/2025 22:10,Banking App External PayShap Payment: Mr. Sfundo S Nondwat (083 339 4920),Mr. SFUNDO S NONDWAT |+27-833394920,Personal & Family,Digital Payments,,-50,,766.77
+665,3/18/2025,3/18/2025 22:10,External PayShap Payment Fee,|Mr. SFUNDO S NONDWAT |+27-833394920,Fees,Fees,,,-2,764.77
+666,3/19/2025,3/18/2025 22:58,Banking App Immediate Payment: Summur,SUMMUR,Personal & Family,Digital Payments,,-50,,714.77
+667,3/19/2025,3/18/2025 22:58,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,713.77
+668,3/21/2025,3/21/2025 14:32,Payment Received: N Tom,N TOM,Other Income,Other Income,500,,,1213.77
+669,3/21/2025,3/21/2025 16:04,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-5,,1208.77
+670,3/21/2025,3/21/2025 16:04,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,1208.27
+671,3/22/2025,3/20/2025 20:55,Giovannisrestaurant Welkom (Card 4719),GIOVANNISRESTAURANT    WELKOM       ZAZA,Food,Restaurants,,-108,,1100.27
+672,3/22/2025,3/20/2025 20:15,Sucasalounge Welkom (Card 4719),SUCASALOUNGE           WELKOM       ZAZA,Food,Restaurants,,-69,,1031.27
+673,3/23/2025,3/23/2025 0:16,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-3,,1028.27
+674,3/24/2025,3/24/2025 18:44,Banking App Immediate Payment: Noxolo,NOXOLO,Personal & Family,Digital Payments,,-300,,728.27
+675,3/24/2025,3/24/2025 18:44,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,727.27
+676,3/25/2025,3/20/2025 17:05,Checkers Welkom (Card 4719),Checkers Goldfields    WELKOM         ZA,Food,Groceries,,-26.98,,700.29
+677,3/25/2025,3/21/2025 15:52,Lovisa Bloemfontein (Card 4719),LOVISA LOCH LOGAN      BLOEMFONTEIN   ZA,Personal & Family,Gifts,,-300,,400.29
+678,3/25/2025,3/25/2025 7:07,PayShap Payment Received: Ungathi Andikubheji,Ungathi andikubheji,Other Income,Other Income,52,,,452.29
+679,3/26/2025,3/26/2025 0:39,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-3.02,,449.27
+680,3/28/2025,3/26/2025 16:27,Online Purchase: Takealot Cape Town (Card 4719),TAKEALO*T              CAPE TOWN    WCZA,Personal & Family,Online Store,,-249,,200.27
+681,3/29/2025,3/29/2025 0:24,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-1,,199.27
+682,3/30/2025,3/30/2025 11:30,Banking App Immediate Payment: Noxolo,NOXOLO,Personal & Family,Digital Payments,,-50,,149.27
+683,3/30/2025,3/30/2025 11:30,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,148.27
+684,3/31/2025,3/31/2025 19:08,Card Purchase Insufficient Funds Fee: The Staffordshire Bloemfontein Za,INSF. FUNDS |          THE STAFFORDSHIRE       BLOEMFONTEIN  ZA,Fees,Fees,,,-1,147.27
+685,3/31/2025,3/31/2025 23:29,Interest Received,Interest Received,Interest,Interest,2.46,,,149.73
+686,3/31/2025,3/31/2025 23:29,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,142.23
+687,4/1/2025,4/1/2025 21:14,Transfer from Live Better Savings Account (1780225111),Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,75,,,217.23
+688,4/1/2025,4/1/2025 22:05,Payment Received: H Belebesi,H BELEBESI,Other Income,Other Income,70,,,287.23
+689,4/3/2025,3/31/2025 19:09,The Staffordshire Bloemfontein (Card 4719),THE STAFFORDSHIRE      BLOEMFONTEIN FSZA,Food,Restaurants,,-69,,218.23
+690,4/4/2025,4/4/2025 0:48,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-1,,217.23
+691,4/4/2025,4/1/2025 22:19,Online Purchase: Takealot Cape Town (Card 4719),TAKEALO*T              CAPE TOWN    WCZA,Personal & Family,Online Store,,-181,,36.23
+692,4/14/2025,4/14/2025 18:15,International Online Purchase Insufficient Funds Fee: Spotifyza Stockholm Se,INSF. FUNDS |          SpotifyZA              Stockholm      SE,Fees,Fees,,,-3,33.23
+693,4/14/2025,4/14/2025 19:20,Payment Received: N Tom,N TOM,Other Income,Other Income,100,,,133.23
+694,4/18/2025,4/16/2025 23:53,Recurring Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,98.24
+695,4/18/2025,4/18/2025 1:59,International Processing Fee,International Processing Fee,Fees,Fees,,,-3,95.24
+696,4/19/2025,4/19/2025 0:16,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.01,,90.23
+697,4/19/2025,4/19/2025 18:09,Banking App Immediate Payment: Loml Gasputia,LOML GASPUTIA,Personal & Family,Digital Payments,,-30,,60.23
+698,4/19/2025,4/19/2025 18:09,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,59.23
+699,4/29/2025,4/29/2025 14:03,Payment Received: N Tom,N TOM,Other Income,Other Income,500,,,559.23
+700,4/30/2025,4/30/2025 7:12,Payment Received: N Tom,N TOM,Other Income,Other Income,1300,,,1859.23
+701,4/30/2025,4/30/2025 7:47,Payment Received: N Tom,N TOM,Other Income,Other Income,350,,,2209.23
+702,4/30/2025,4/30/2025 14:48,Exc W/lim Mr Price- Lochlogan 41 Za,EXC W/LIM | MR PRICE- LOCHLOGAN 41  ZA,,,,,,
+703,4/30/2025,4/30/2025 14:48,Card Purchase Limit Exceeded Fee: Mr Price- Lochlogan 41 Za,EXC W/LIM | MR PRICE- LOCHLOGAN 41  ZA,Fees,Fees,,,-1,2208.23
+704,4/30/2025,4/30/2025 23:33,Interest Received,Interest Received,Interest,Interest,0.32,,,2208.55
+705,4/30/2025,4/30/2025 23:33,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,2201.05
+706,5/1/2025,4/30/2025 23:06,Payment Received: B Deppa,B DEPPA,Other Income,Other Income,700,,,2901.05
+707,5/1/2025,5/1/2025 21:58,Banking App Bill Payment (TDCDRXFHTPD1): rain,rain|TDCDRXFHTPD1|,Communication,Cellphone,,-625,,2276.05
+708,5/1/2025,5/1/2025 21:58,Bill Payment Fee,Bill Payment Fee,Fees,Fees,,,-2,2274.05
+709,5/2/2025,4/30/2025 14:49,Mr Price Willows (Card 4719),MR PRICE- LOCHLOGAN 41 WILLOWS      FSZA,Personal & Family,Clothing & Shoes,,-405.49,,1868.56
+710,5/2/2025,4/30/2025 14:16,Dis-Chem Bloemfontein (Card 4719),Dischem Loch Logan     BLOEMFONTEIN FSZA,Medical,Pharmacy,,-590.42,,1278.14
+711,5/3/2025,5/3/2025 0:28,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-14.09,,1264.05
+712,5/3/2025,4/30/2025 23:11,Online Purchase: Takealot Cape Town (Card 4719),Takealot               CAPE TOWN      ZA,Personal & Family,Online Store,,-333,,931.05
+713,5/3/2025,5/3/2025 16:27,Banking App Immediate Payment: Twin,TWIN,Personal & Family,Digital Payments,,-185,,746.05
+714,5/3/2025,5/3/2025 16:27,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,745.05
+715,5/4/2025,5/4/2025 0:07,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-7,,738.05
+716,5/4/2025,5/2/2025 11:45,Recurring Card Purchase: Apple.com Itunes.com (Card 4719),APPLE.COM/BILL         ITUNES.COM   IRIE,Personal & Family,Online Store,,-49.96,,688.09
+717,5/4/2025,5/4/2025 6:47,International Processing Fee,International Processing Fee,Fees,Fees,,,-3,685.09
+718,5/4/2025,4/30/2025 10:13,Card Purchase & Cashback (R160.00): Checkers Bloemfontein (Card 4719),CC Fresh X Universitas BLOEMFONTEIN   ZA,Food,Groceries,,-241.28,,443.81
+719,5/4/2025,5/4/2025 15:22,Till Cash Withdrawal Fee,Till Cash Withdrawal Fee,Fees,Fees,,,-2,441.81
+720,5/5/2025,5/5/2025 0:29,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8.76,,433.05
+721,5/5/2025,5/3/2025 14:04,Nu Metro Bloemfontein (Card 4719),NuMetro Loch Logan     Bloemfontein ZAZA,Entertainment,Movies,,-110,,323.05
+722,5/7/2025,5/4/2025 15:04,Checkers Bloemfontein (Card 4719),CC Fresh X Universitas BLOEMFONTEIN   ZA,Food,Groceries,,-69.5,,253.55
+723,5/8/2025,5/8/2025 0:38,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.5,,253.05
+724,5/13/2025,5/13/2025 17:36,ATM Cash Withdrawal: Dnr Bloemfontein Mimosabloemfontein Fsza,DNR Bloemfontein MimosaBloemfontein FSZA,Cash,Cash Withdrawal,,-50,,203.05
+725,5/13/2025,5/13/2025 17:36,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,193.05
+726,5/16/2025,5/14/2025 18:15,Recurring Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,158.06
+727,5/16/2025,5/16/2025 1:36,International Processing Fee,International Processing Fee,Fees,Fees,,,-3,155.06
+728,5/17/2025,5/17/2025 0:04,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.01,,150.05
+729,5/22/2025,5/22/2025 11:57,Banking App Immediate Payment: Dallyn,DALLYN,Personal & Family,Digital Payments,,-50,,100.05
+730,5/22/2025,5/22/2025 11:57,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,99.05
+731,5/28/2025,5/28/2025 1:28,Banking App Immediate Payment: Sol,SOL,Personal & Family,Digital Payments,,-30,,69.05
+732,5/28/2025,5/28/2025 1:28,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,68.05
+733,5/30/2025,5/30/2025 20:46,Payment Received: N Tom,N TOM,Other Income,Other Income,6000,,,6068.05
+734,5/30/2025,5/30/2025 21:16,Banking App Transfer to Second Acc: Transfer,Transfer,Transfer,Transfer,,-6000,,68.05
+735,5/31/2025,5/31/2025 12:48,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-15,,53.05
+736,5/31/2025,5/31/2025 12:48,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,52.55
+737,5/31/2025,5/31/2025 16:41,Payment Received: N Tom,N TOM,Other Income,Other Income,300,,,352.55
+738,5/31/2025,5/31/2025 17:27,Cash Withdrawal: Atm Bloemfontein Arc 2bloemfontein Fsza,ATM  Bloemfontein Arc 2Bloemfontein FSZA,Cash,Cash Withdrawal,,-100,,252.55
+739,5/31/2025,5/31/2025 17:27,Cash Withdrawal Fee,Cash Withdrawal Fee,Fees,Fees,,,-10,242.55
+740,5/31/2025,5/31/2025 22:49,Interest Received,Interest Received,Interest,Interest,0.58,,,243.13
+741,5/31/2025,5/31/2025 22:49,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,235.63
+742,6/1/2025,6/1/2025 12:10,Payment Received: N Tom,N TOM,Other Income,Other Income,2500,,,2735.63
+743,6/1/2025,6/1/2025 12:33,Banking App Bill Payment (BOOYCEXCIIF1): rain,rain|BOOYCEXCIIF1|,Communication,Cellphone,,-625,,2110.63
+744,6/1/2025,6/1/2025 12:33,Bill Payment Fee,Bill Payment Fee,Fees,Fees,,,-2,2108.63
+745,6/1/2025,6/1/2025 13:11,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-7,,2101.63
+746,6/1/2025,6/1/2025 13:11,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,2101.13
+747,6/1/2025,6/1/2025 14:11,Cnp Decline Takealot Za,CNP DECLINE | Takealot ZA|MANUAL,,,,,,
+748,6/1/2025,6/1/2025 14:11,Decline Fee (Online Purchases Turned Off),CNP DECLINE | Takealot ZA|MANUAL,Fees,Fees,,,-1,2100.13
+749,6/1/2025,6/1/2025 14:11,Cnp Decline Takealot Za,CNP DECLINE | Takealot ZA|MANUAL,,,,,,
+750,6/1/2025,6/1/2025 14:11,Decline Fee (Online Purchases Turned Off),CNP DECLINE | Takealot ZA|MANUAL,Fees,Fees,,,-1,2099.13
+751,6/3/2025,6/1/2025 13:15,Dis-Chem Bloemfontein (Card 4719),Dischem Loch Logan     BLOEMFONTEIN FSZA,Medical,Pharmacy,,-422.99,,1676.14
+752,6/3/2025,6/1/2025 12:58,Mr Price Willows (Card 4719),MR PRICE- LOCHLOGAN 41 WILLOWS      FSZA,Personal & Family,Clothing & Shoes,,-312.98,,1363.16
+753,6/3/2025,6/1/2025 14:12,Online Purchase: Takealot Cape Town (Card 4719),Takealot               CAPE TOWN    WCZA,Personal & Family,Online Store,,-329,,1034.16
+754,6/4/2025,6/4/2025 0:26,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-15.03,,1019.13
+755,6/4/2025,6/2/2025 11:45,Recurring Card Purchase: Apple.com Itunes.com (Card 4719),APPLE.COM/BILL         ITUNES.COM   IRIE,Personal & Family,Online Store,,-59.99,,959.14
+756,6/4/2025,6/4/2025 3:26,International Processing Fee,International Processing Fee,Fees,Fees,,,-3,956.14
+757,6/4/2025,6/1/2025 13:41,Jam Clothing Bloemfontein (Card 4719),JAM CLOTHING LOCH LOGA BLOEMFONTEIN   ZA,Personal & Family,Clothing & Shoes,,-531.5,,424.64
+758,6/4/2025,6/1/2025 18:03,Checkers Bloemfontein (Card 4719),CC Fresh X Universitas BLOEMFONTEIN   ZA,Food,Groceries,,-73.26,,351.38
+759,6/4/2025,6/1/2025 12:24,YDE Fs (Card 4719),YDE 0819               FS           ZAZA,Personal & Family,Clothing & Shoes,,-200,,151.38
+760,6/5/2025,6/5/2025 0:08,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-15.25,,136.13
+761,6/5/2025,6/5/2025 21:12,Payment Received: N Tom,N TOM,Other Income,Other Income,800,,,936.13
+762,6/6/2025,6/6/2025 13:46,PayShap Payment Received: Blesser,blesser,Other Income,Other Income,250,,,1186.13
+763,6/7/2025,6/5/2025 21:14,Online Purchase: Busbud London (Card 4719),Busbud                 London       GBGB,Transport,Public Transport,,-700.5,,485.63
+764,6/7/2025,6/7/2025 2:12,International Processing Fee,International Processing Fee,Fees,Fees,,,-3,482.63
+765,6/8/2025,6/8/2025 0:25,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-9.5,,473.13
+766,6/8/2025,6/6/2025 15:22,Tops Bloemfontein (Card 4719),Tops Meditas           Bloemfontein   ZA,Entertainment,Alcohol,,-101.34,,371.79
+767,6/8/2025,6/5/2025 14:49,Checkers Bloemfontein (Card 4719),CC Fresh X Universitas BLOEMFONTEIN   ZA,Food,Groceries,,-27.28,,344.51
+768,6/9/2025,6/9/2025 0:48,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-11.38,,333.13
+769,6/9/2025,6/6/2025 15:01,Checkers Bloemfontein (Card 4719),CC Fresh X Universitas BLOEMFONTEIN   ZA,Food,Groceries,,-79.6,,253.53
+770,6/10/2025,6/10/2025 1:05,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.4,,253.13
+771,6/11/2025,6/8/2025 15:36,Checkers Bloemfontein (Card 4719),CC Fresh X Universitas BLOEMFONTEIN   ZA,Food,Groceries,,-65.26,,187.87
+772,6/12/2025,6/12/2025 1:08,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-4.74,,183.13
+773,6/13/2025,6/13/2025 12:42,Print Statement Fee (Self Service Terminal),Print Statement Fee (Self Service Terminal),Fees,Fees,,,-6,177.13
+774,6/14/2025,6/14/2025 18:15,International Online Purchase Insufficient Funds Fee: Spotifyza Stockholm Se,INSF. FUNDS |          SpotifyZA              Stockholm      SE,Fees,Fees,,,-3,174.13
+775,6/14/2025,6/14/2025 18:16,Banking App Transfer from Live Better Savings Account (1780225111),Banking App Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,30,,,204.13
+776,6/15/2025,6/13/2025 14:29,Pep Stores Bloemfontein (Card 4719),PEP 6389 Bloemfontein  BLOEMFONTEIN FSZA,Personal & Family,Clothing & Shoes,,-63.99,,140.14
+777,6/16/2025,6/16/2025 0:58,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-6.01,,134.13
+778,6/16/2025,6/13/2025 13:46,Lovisa Bloemfontein (Card 4719),LOVISA LOCH LOGAN      BLOEMFONTEIN   ZA,Personal & Family,Gifts,,-70,,64.13
+779,6/16/2025,6/16/2025 17:06,International Online Purchase Insufficient Funds Fee: Spotifyza Stockholm Se,INSF. FUNDS |          SpotifyZA              Stockholm      SE,Fees,Fees,,,-3,61.13
+780,6/16/2025,6/16/2025 17:07,Banking App Transfer from Live Better Savings Account (1780225111),Banking App Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,20,,,81.13
+781,6/20/2025,6/18/2025 19:10,Recurring Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,46.14
+782,6/20/2025,6/20/2025 1:59,International Processing Fee,International Processing Fee,Fees,Fees,,,-3,43.14
+783,6/21/2025,6/21/2025 0:14,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.01,,38.13
+784,6/30/2025,6/30/2025 22:40,Interest Received,Interest Received,Interest,Interest,0.57,,,38.7
+785,6/30/2025,6/30/2025 22:40,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,31.2
+786,7/2/2025,7/2/2025 11:45,Card Purchase Insufficient Funds Fee: Apple.com/bill Itunes.com Ie,INSF. FUNDS |          APPLE.COM/BILL         ITUNES.COM     IE,Fees,Fees,,,-3,28.2
+787,7/3/2025,7/3/2025 6:58,Card Purchase Insufficient Funds Fee: Apple.com/bill Itunes.com Ie,INSF. FUNDS |          APPLE.COM/BILL         ITUNES.COM     IE,Fees,Fees,,,-3,25.2
+788,7/3/2025,7/3/2025 14:20,Card Purchase Insufficient Funds Fee: Apple.com/bill Itunes.com Ie,INSF. FUNDS |          APPLE.COM/BILL         ITUNES.COM     IE,Fees,Fees,,,-3,22.2
+789,7/3/2025,7/3/2025 14:30,Payment Received: N Tom,N TOM,Other Income,Other Income,300,,,322.2
+790,7/3/2025,7/3/2025 14:58,Cnp Decline Takealot Za,CNP DECLINE | Takealot ZA|MANUAL,,,,,,
+791,7/3/2025,7/3/2025 14:58,Decline Fee (Online Purchases Turned Off),CNP DECLINE | Takealot ZA|MANUAL,Fees,Fees,,,-1,321.2
+792,7/4/2025,7/4/2025 11:21,Payment Received: B Deppa,B DEPPA,Other Income,Other Income,500,,,821.2
+793,7/5/2025,7/4/2025 8:45,Recurring Card Purchase: Apple.com Itunes.com (Card 4719),APPLE.COM/BILL         ITUNES.COM   IRIE,Personal & Family,Online Store,,-59.99,,761.21
+794,7/5/2025,7/5/2025 1:55,International Processing Fee,International Processing Fee,Fees,Fees,,,-3,758.21
+795,7/5/2025,7/3/2025 14:59,Online Purchase: Takealot Cape Town (Card 4719),Takealot               CAPE TOWN      ZA,Personal & Family,Online Store,,-195,,563.21
+796,7/6/2025,7/6/2025 3:49,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.01,,558.2
+797,7/6/2025,7/4/2025 15:39,Online Purchase: Mrd Cape Town (Card 4719),MrD                    CAPE TOWN      ZA,Food,Groceries,,-115.62,,442.58
+798,7/7/2025,7/7/2025 3:29,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-4.38,,438.2
+799,7/16/2025,7/14/2025 18:15,Recurring Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,403.21
+800,7/16/2025,7/16/2025 1:38,International Processing Fee,International Processing Fee,Fees,Fees,,,-3,400.21
+801,7/17/2025,7/17/2025 1:20,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.01,,395.2
+802,7/17/2025,7/17/2025 16:33,Banking App Immediate Payment: Noxolo,NOXOLO,Personal & Family,Digital Payments,,-250,,145.2
+803,7/17/2025,7/17/2025 16:33,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,144.2
+804,7/21/2025,7/21/2025 7:15,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-5,,139.2
+805,7/21/2025,7/21/2025 7:15,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,138.7
+806,7/31/2025,7/31/2025 23:19,Interest Received,Interest Received,Interest,Interest,0.47,,,139.17
+807,7/31/2025,7/31/2025 23:19,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,131.67
+808,8/1/2025,8/1/2025 14:04,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,500,,,631.67
+809,8/1/2025,8/1/2025 15:02,Banking App Transfer from Live Better Savings Account (1780225111),Banking App Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,74,,,705.67
+810,8/1/2025,8/1/2025 15:04,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,6,,,711.67
+811,8/2/2025,8/2/2025 17:40,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,132,,,843.67
+812,8/2/2025,8/2/2025 17:41,Banking App Immediate Payment: Rakuku,RAKUKU,Personal & Family,Digital Payments,,-132,,711.67
+813,8/2/2025,8/2/2025 17:41,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,710.67
+814,8/3/2025,8/1/2025 14:18,Dis-Chem Bloemfontein (Card 4719),Dischem Loch Logan     BLOEMFONTEIN FSZA,Medical,Pharmacy,,-423.94,,286.73
+815,8/3/2025,8/1/2025 15:03,Online Purchase: Takealot Cape Town (Card 4719),Takealot               CAPE TOWN      ZA,Personal & Family,Online Store,,-195,,91.73
+816,8/4/2025,8/2/2025 11:46,Recurring Card Purchase: Apple.com Itunes.com (Card 4719),APPLE.COM/BILL         ITUNES.COM   IRIE,Personal & Family,Online Store,,-59.99,,31.74
+817,8/4/2025,8/2/2025 11:46,International Processing Fee,International Processing Fee,Fees,Fees,,,-3,28.74
+818,8/14/2025,8/14/2025 5:03,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,35,,,63.74
+819,8/14/2025,8/14/2025 11:26,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,5,,,68.74
+820,8/15/2025,8/15/2025 14:42,Payment Received: Cut Payment 2611419053,CUT                           PAYMENT   2611419053,Other Income,Other Income,5500,,,5568.74
+821,8/15/2025,8/15/2025 14:53,Banking App Immediate Payment: Noxolo,NOXOLO,Personal & Family,Digital Payments,,-2000,,3568.74
+822,8/15/2025,8/15/2025 14:53,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,3567.74
+823,8/15/2025,8/15/2025 14:55,Banking App External PayShap Payment: Mr. Sfundo S Nondwat (083 339 4920),Mr. SFUNDO S NONDWAT |+27-833394920,Personal & Family,Digital Payments,,-500,,3067.74
+824,8/15/2025,8/15/2025 14:55,External PayShap Payment Fee,|Mr. SFUNDO S NONDWAT |+27-833394920,Fees,Fees,,,-2,3065.74
+825,8/16/2025,8/14/2025 18:15,Recurring Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-34.99,,3030.75
+826,8/16/2025,8/14/2025 18:15,International Processing Fee: Spotifyza,         SpotifyZA              Stockholm      SE|REC_RECURRING_TXN,Fees,Fees,,,-3,3027.75
+827,8/16/2025,8/16/2025 12:25,Banking App Immediate Payment: Madi,MADI,Personal & Family,Digital Payments,,-100,,2927.75
+828,8/16/2025,8/16/2025 12:25,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,2926.75
+829,8/16/2025,8/16/2025 15:56,Payment Received: M Sello,M SELLO,Other Income,Other Income,82,,,3008.75
+830,8/17/2025,8/17/2025 1:53,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.01,,3003.74
+831,8/17/2025,8/15/2025 20:44,Online Purchase: Cotton On Johannesburg (Card 4719),Cotton On South Africa JOHANNESBURG GPZA,Personal & Family,Clothing & Shoes,,-125,,2878.74
+832,8/17/2025,8/15/2025 16:36,Online Purchase: Cotton On Johannesburg (Card 4719),Cotton On South Africa JOHANNESBURG GPZA,Personal & Family,Clothing & Shoes,,-698.5,,2180.24
+833,8/18/2025,8/18/2025 3:40,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-6.5,,2173.74
+834,8/18/2025,8/16/2025 19:26,Online Purchase: Takealot Cape Town (Card 4719),Takealot               CAPE TOWN    WCZA,Personal & Family,Online Store,,-799,,1374.74
+835,8/18/2025,8/16/2025 7:31,Online Purchase: Takealot Cape Town (Card 4719),Takealot               CAPE TOWN      ZA,Personal & Family,Online Store,,-579,,795.74
+836,8/18/2025,8/16/2025 11:33,Dis-Chem Bloemfontein (Card 4719),Dischem Loch Logan     BLOEMFONTEIN FSZA,Medical,Pharmacy,,-189.94,,605.8
+837,8/19/2025,8/19/2025 0:57,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-2.06,,603.74
+838,8/20/2025,8/16/2025 16:00,RocoMamas Bloemfontein (Card 4719),ROCOMAMAS              BLOEMFONTEIN   ZA,Food,Restaurants,,-435,,168.74
+839,8/21/2025,8/21/2025 4:55,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5,,163.74
+840,8/21/2025,8/21/2025 15:42,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-35,,128.74
+841,8/21/2025,8/21/2025 15:42,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,128.24
+842,8/24/2025,8/21/2025 18:43,Avarowiz Pty Ltd Bloemfontein (Card 4719),AVAROWIZ PTY LTD       Bloemfontein   ZA,Entertainment,Alcohol,,-90,,38.24
+843,8/25/2025,8/25/2025 1:24,Payment Received: 0268 Cut Salary Salary 2623342646,0268      CUT SALARY          SALARY    2623342646,Salary,Salary,1100,,,1138.24
+844,8/27/2025,8/25/2025 14:46,Online Purchase: Takealot Cape Town (Card 4719),Takealot               CAPE TOWN    WCZA,Personal & Family,Online Store,,-360,,778.24
+845,8/27/2025,8/25/2025 14:40,Online Purchase: Bash Parow East (Card 4719),Bash                   Parow East     ZA,Personal & Family,Clothing & Shoes,,-312.99,,465.25
+846,8/27/2025,8/27/2025 12:57,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-40,,425.25
+847,8/27/2025,8/27/2025 12:57,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,424.75
+848,8/28/2025,8/28/2025 5:00,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-7.01,,417.74
+849,8/29/2025,8/27/2025 18:04,Online Purchase: Mrd Cape Town (Card 4719),MrD                    CAPE TOWN    WCZA,Food,Groceries,,-237.8,,179.94
+850,8/30/2025,8/30/2025 0:31,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-2.2,,177.74
+851,8/30/2025,8/30/2025 20:26,Payment Received: N Tom,N TOM,Other Income,Other Income,300,,,477.74
+852,8/31/2025,8/31/2025 22:25,Interest Received,Interest Received,Interest,Interest,0.89,,,478.63
+853,8/31/2025,8/31/2025 22:25,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,471.13
+854,9/1/2025,8/30/2025 16:28,56tambo Bloemfontein (Card 4719),56TAMBO                BLOEMFONTEIN ZAZA,Household,Furniture & Appliances,,-60,,411.13
+855,9/1/2025,8/30/2025 20:28,Online Purchase: Mrd Cape Town (Card 4719),MrD                    CAPE TOWN    WCZA,Food,Groceries,,-190.17,,220.96
+856,9/2/2025,9/2/2025 4:40,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-9.83,,211.13
+857,9/3/2025,9/3/2025 19:31,Banking App Cash Sent: C*******712,C*******712,Cash,Cash Withdrawal,,-50,,161.13
+858,9/3/2025,9/3/2025 19:31,Cash Sent Fee,Cash Sent Fee,Fees,Fees,,,-10,151.13
+859,9/4/2025,9/2/2025 11:45,Recurring Card Purchase: Apple.com Itunes.com (Card 4719),APPLE.COM/BILL         ITUNES.COM   IRIE,Personal & Family,Online Store,,-59.99,,91.14
+860,9/4/2025,9/2/2025 11:45,International Processing Fee: Apple.com/bill,         APPLE.COM/BILL         ITUNES.COM     IE|REC_RECURRING_TXN,Fees,Fees,,,-3,88.14
+861,9/4/2025,9/4/2025 8:44,Payment Received: N Tom,N TOM,Other Income,Other Income,4000,,,4088.14
+862,9/4/2025,9/4/2025 8:49,Banking App Immediate Payment: Dep,DEP,Personal & Family,Digital Payments,,-1000,,3088.14
+863,9/4/2025,9/4/2025 8:49,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,3087.14
+864,9/4/2025,9/4/2025 17:14,Banking App Cash Sent: C*******988,C*******988,Cash,Cash Withdrawal,,-500,,2587.14
+865,9/4/2025,9/4/2025 17:14,Cash Sent Fee,Cash Sent Fee,Fees,Fees,,,-10,2577.14
+866,9/5/2025,9/5/2025 1:31,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.01,,2577.13
+867,9/16/2025,9/14/2025 18:15,Recurring Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-37.99,,2539.14
+868,9/16/2025,9/14/2025 18:15,International Processing Fee: Spotifyza,         SpotifyZA              Stockholm      SE|REC_RECURRING_TXN,Fees,Fees,,,-3,2536.14
+869,9/17/2025,9/17/2025 0:52,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-2.01,,2534.13
+870,9/25/2025,9/25/2025 19:29,Payment Received: Cut Transfer 2692070086,CUT                           TRANSFER  2692070086,Other Income,Other Income,1100,,,3634.13
+871,9/27/2025,9/27/2025 12:34,Banking App Immediate Payment: Noxolo,NOXOLO,Personal & Family,Digital Payments,,-1000,,2634.13
+872,9/27/2025,9/27/2025 12:34,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,2633.13
+873,9/28/2025,9/26/2025 15:00,Online Purchase: Bash Parow East (Card 4719),Bash                   Parow East     ZA,Personal & Family,Clothing & Shoes,,-524,,2109.13
+874,9/28/2025,9/26/2025 19:24,Online Purchase: Takealot Cape Town (Card 4719),Takealot               CAPE TOWN      ZA,Personal & Family,Online Store,,-324,,1785.13
+875,9/29/2025,9/29/2025 1:46,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-12,,1773.13
+876,9/29/2025,9/27/2025 13:01,Phiritona Holdings Bloemfontein (Card 4719),PHIRITONA HOLDINGS     Bloemfontein   ZA,Personal & Family,Digital Payments,,-90,,1683.13
+877,9/30/2025,10/1/2025 0:22,Interest Received,Interest Received,Interest,Interest,3.8,,,1686.93
+878,9/30/2025,10/1/2025 0:22,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,1679.43
+879,10/3/2025,9/30/2025 17:39,Checkers Bloemfontein (Card 4719),CC Fresh X Universitas BLOEMFONTEIN   ZA,Food,Groceries,,-126.24,,1553.19
+880,10/4/2025,10/4/2025 1:38,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-3.76,,1549.43
+881,10/4/2025,10/2/2025 11:45,Recurring Card Purchase: Apple.com Itunes.com (Card 4719),APPLE.COM/BILL         ITUNES.COM   IRIE,Personal & Family,Online Store,,-59.99,,1489.44
+882,10/4/2025,10/2/2025 11:45,International Processing Fee: Apple.com/bill,         APPLE.COM/BILL         ITUNES.COM     IE|REC_RECURRING_TXN,Fees,Fees,,,-2,1487.44
+883,10/5/2025,10/5/2025 1:48,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.01,,1487.43
+884,10/6/2025,10/4/2025 14:55,McDonalds Willows (Card 4719),MCD Loch Logan  (0298) Willows        ZA,Food,Takeaways,,-80.9,,1406.53
+885,10/6/2025,10/4/2025 14:07,Mr Price Willows (Card 4719),MR PRICE- LOCHLOGAN 41 WILLOWS      FSZA,Personal & Family,Clothing & Shoes,,-205.5,,1201.03
+886,10/7/2025,10/7/2025 2:30,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-13.6,,1187.43
+887,10/7/2025,10/7/2025 13:34,Payment Received: N Tom,N TOM,Other Income,Other Income,600,,,1787.43
+888,10/8/2025,10/7/2025 13:37,Online Purchase: Busbud London (Card 4719),Busbud                 London       GBGB,Transport,Public Transport,,-607.5,,1179.93
+889,10/8/2025,10/7/2025 13:37,International Processing Fee: Busbud,         Busbud                 London         GB|ECO_ECOMMERCE_TXN,Fees,Fees,,,-2,1177.93
+890,10/9/2025,10/9/2025 1:21,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-2.5,,1175.43
+891,10/11/2025,10/11/2025 11:02,Banking App Cash Sent: C*******349,C*******349,Cash,Cash Withdrawal,,-500,,675.43
+892,10/11/2025,10/11/2025 11:02,Cash Sent Fee,Cash Sent Fee,Fees,Fees,,,-10,665.43
+893,10/15/2025,10/11/2025 12:20,Checkers Bloemfontein (Card 4719),CC Fresh X Universitas BLOEMFONTEIN   ZA,Food,Groceries,,-248.54,,416.89
+894,10/16/2025,10/14/2025 18:15,Recurring Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-37.99,,378.9
+895,10/16/2025,10/14/2025 18:15,International Processing Fee: Spotifyza,         SpotifyZA              Stockholm      SE|REC_RECURRING_TXN,Fees,Fees,,,-2,376.9
+896,10/16/2025,10/16/2025 2:15,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-1.46,,375.44
+897,10/16/2025,10/16/2025 19:04,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,131,,,506.44
+898,10/16/2025,10/16/2025 19:04,Banking App Transfer from Live Better Savings Account (1780225111),Banking App Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,73,,,579.44
+899,10/17/2025,10/17/2025 1:08,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-2.01,,577.43
+900,10/19/2025,10/16/2025 13:56,Checkers Bloemfontein (Card 4719),CC Fresh X Universitas BLOEMFONTEIN   ZA,Food,Groceries,,-126.06,,451.37
+901,10/20/2025,10/20/2025 2:42,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-3.94,,447.43
+902,10/23/2025,10/20/2025 13:25,Checkers Bloemfontein (Card 4719),CC Fresh X Universitas BLOEMFONTEIN   ZA,Food,Groceries,,-191.2,,256.23
+903,10/24/2025,10/24/2025 1:52,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8.8,,247.43
+904,10/24/2025,10/24/2025 2:43,Payment Received: 0268 Cut Salary Salary 2744365049,0268      CUT SALARY          SALARY    2744365049,Salary,Salary,1100,,,1347.43
+905,10/28/2025,10/28/2025 1:32,Payment Received: Tcps Fundi Payment 220021payment 2756278311,TCPS      FUNDI PAYMENT 220021PAYMENT   2756278311,Allowance,Allowance,20167.47,,,21514.9
+906,10/28/2025,10/28/2025 5:31,Banking App Immediate Payment: Noxolo,NOXOLO,Personal & Family,Digital Payments,,-5000,,16514.9
+907,10/28/2025,10/28/2025 5:31,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,16513.9
+908,10/28/2025,10/28/2025 10:22,Banking App Transfer to Second Acc: Transfer,Transfer,Transfer,Transfer,,-11000,,5513.9
+909,10/29/2025,10/25/2025 13:24,Checkers Bloemfontein (Card 4719),CC Fresh X Universitas BLOEMFONTEIN   ZA,Food,Groceries,,-293.5,,5220.4
+910,10/29/2025,10/29/2025 12:49,Cnp Decline Cotton On South Africa Za,CNP DECLINE | Cotton On South Africa  ZA|MANUAL,,,,,,
+911,10/29/2025,10/29/2025 12:49,Decline Fee (Online Purchases Turned Off),CNP DECLINE | Cotton On South Africa  ZA|MANUAL,Fees,Fees,,,-1,5219.4
+912,10/29/2025,10/29/2025 16:00,ATM Cash Withdrawal: Atm Bloemfontein Arcadebloemfontein Fsza,ATM Bloemfontein ArcadeBloemfontein FSZA,Cash,Cash Withdrawal,,-150,,5069.4
+913,10/29/2025,10/29/2025 16:00,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,5059.4
+914,10/30/2025,10/30/2025 1:31,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-6.5,,5052.9
+915,10/30/2025,10/30/2025 16:18,Cash Withdrawal: Dnr Bfn Waterfront 2nd Free State Fsza,DNR BFN Waterfront 2nd Free State   FSZA,Cash,Cash Withdrawal,,-50,,5002.9
+916,10/30/2025,10/30/2025 16:18,Cash Withdrawal Fee,Cash Withdrawal Fee,Fees,Fees,,,-10,4992.9
+917,10/31/2025,10/29/2025 15:56,Procell Shop 24 Bloemfontein (Card 4719),PROCELL SHOP 24        BLOEMFONTEIN ZAZA,Communication,Telephone,,-180,,4812.9
+918,10/31/2025,10/29/2025 17:04,The Friend Supermarket Willows (Card 4719),THE FRIEND SUPERMARKET Willows        ZA,Food,Groceries,,-45,,4767.9
+919,10/31/2025,10/29/2025 16:44,Sportscene Bloemfontein (Card 4719),Sportscene Bloemfontei Bloemfontein   ZA,Personal & Family,Sport & Hobbies,,-949.05,,3818.85
+920,10/31/2025,10/29/2025 12:54,Online Purchase: Cotton On Johannesburg (Card 4719),Cotton On South Africa JOHANNESBURG GPZA,Personal & Family,Clothing & Shoes,,-487.9,,3330.95
+921,10/31/2025,11/1/2025 0:07,Interest Received,Interest Received,Interest,Interest,2.5,,,3333.45
+922,10/31/2025,11/1/2025 0:07,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,3325.95
+923,11/1/2025,10/31/2025 22:23,Payment Received: N Tom,N TOM,Other Income,Other Income,1000,,,4325.95
+924,11/1/2025,11/1/2025 2:34,Payment Received: Tcps Fundi Payment 220021payment 2771150864,TCPS      FUNDI PAYMENT 220021PAYMENT   2771150864,Allowance,Allowance,1500,,,5825.95
+925,11/1/2025,10/30/2025 16:13,The Fix Bloemfontein (Card 4719),The Fix Lochlogan      Bloemfontein   ZA,Personal & Family,Clothing & Shoes,,-411.79,,5414.16
+926,11/1/2025,10/30/2025 15:03,Clicks Bloemfontein (Card 4719),CLICKS LOCH LOGAN      Bloemfontein   ZA,Personal & Family,Personal Care,,-380.74,,5033.42
+927,11/1/2025,10/30/2025 16:32,Pick n Pay Bloemfontein (Card 4719),PnP Crp Loch-Logan     BLOEMFONTEIN FSZA,Food,Groceries,,-32,,5001.42
+928,11/1/2025,10/30/2025 16:02,Relay Jeans Bloemfontein (Card 4719),Relay Jeans Loch Logan Bloemfontein   ZA,Personal & Family,Clothing & Shoes,,-260,,4741.42
+929,11/1/2025,10/30/2025 15:14,Dis-Chem Bloemfontein (Card 4719),Dischem Loch Logan     BLOEMFONTEIN FSZA,Medical,Pharmacy,,-810.13,,3931.29
+930,11/1/2025,10/30/2025 15:37,H&M Westdene (Card 4719),H&M Loch Logan         WESTDENE     FSZA,Personal & Family,Clothing & Shoes,,-150.36,,3780.93
+931,11/1/2025,11/1/2025 8:23,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8.05,,3772.88
+932,11/2/2025,11/2/2025 2:13,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-44.98,,3727.9
+933,11/2/2025,10/30/2025 15:50,Factorie Bloemfontein (Card 4719),FACTORIE LOCH LOGAN_RE BLOEMFONTEIN   ZA,Personal & Family,Clothing & Shoes,,-544.1,,3183.8
+934,11/2/2025,10/30/2025 15:19,Lovisa Bloemfontein (Card 4719),LOVISA LOCH LOGAN      BLOEMFONTEIN   ZA,Personal & Family,Gifts,,-300,,2883.8
+935,11/3/2025,11/3/2025 2:39,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.9,,2877.9
+936,11/3/2025,10/31/2025 11:21,Checkers Bloemfontein (Card 4719),CC Fresh X Universitas BLOEMFONTEIN   ZA,Food,Groceries,,-33.24,,2844.66
+937,11/3/2025,11/1/2025 15:10,Woolworths Bloemfontein (Card 4719),WOOLWORTHS             BLOEMFONTEIN WCZA,Personal & Family,Clothing & Shoes,,-69.95,,2774.71
+938,11/3/2025,11/1/2025 15:37,Nu Metro Bloemfontein (Card 4719),NuMetro Loch Logan     Bloemfontein ZAZA,Entertainment,Movies,,-135,,2639.71
+939,11/3/2025,11/1/2025 14:57,Dis-Chem Bloemfontein (Card 4719),Dischem Loch Logan     BLOEMFONTEIN FSZA,Medical,Pharmacy,,-244.11,,2395.6
+940,11/4/2025,11/4/2025 1:35,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-17.7,,2377.9
+941,11/4/2025,11/2/2025 12:45,Recurring Card Purchase: Apple.com Cork (Card 4719),APPLE.COM/BILL         CORK         IRIE,Personal & Family,Online Store,,-59.99,,2317.91
+942,11/4/2025,11/2/2025 12:45,International Processing Fee: Apple.com/bill,         APPLE.COM/BILL         CORK           IE|REC_RECURRING_TXN,Fees,Fees,,,-2,2315.91
+943,11/4/2025,11/4/2025 2:33,Purchase Refund: Jet Stores Bloemfontein (Card 4719),Jet Loch Logan,Refunds,Refunds,229.99,,,2545.9
+944,11/4/2025,11/1/2025 14:35,Jet Stores Bloemfontein (Card 4719),Jet Loch Logan         Bloemfontein   ZA,Personal & Family,Clothing & Shoes,,-229.99,,2315.91
+945,11/4/2025,11/2/2025 10:27,Online Purchase: Takealot Cape Town (Card 4719),Takealot               CAPE TOWN    WCZA,Personal & Family,Online Store,,-433,,1882.91
+946,11/4/2025,11/1/2025 15:27,McDonalds Willows (Card 4719),MCD Loch Logan  (0298) Willows        ZA,Food,Takeaways,,-98.8,,1784.11
+947,11/5/2025,11/5/2025 1:54,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8.22,,1775.89
+948,11/5/2025,11/1/2025 13:54,Factorie Bloemfontein (Card 4719),FACTORIE LOCH LOGAN_RE BLOEMFONTEIN   ZA,Personal & Family,Clothing & Shoes,,-60,,1715.89
+949,11/8/2025,11/6/2025 15:18,Online Purchase: Cotton On Johannesburg (Card 4719),Cotton On South Africa JOHANNESBURG GPZA,Personal & Family,Clothing & Shoes,,-380,,1335.89
+950,11/8/2025,11/8/2025 13:39,Banking App Immediate Payment: Noxolo,NOXOLO,Personal & Family,Digital Payments,,-300,,1035.89
+951,11/8/2025,11/8/2025 13:39,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,1034.89
+952,11/11/2025,11/11/2025 18:14,Cnp Rec Pmt Decline Github  Inc. Us,CNP REC PMT DECLINE | GITHUB  INC. US,,,,,,
+953,11/11/2025,11/11/2025 18:14,Decline Fee (International Card Purchases Turned Off),CNP REC PMT DECLINE | GITHUB  INC. US,Fees,Fees,,,-2,1032.89
+954,11/13/2025,11/11/2025 18:15,Recurring Card Purchase: Github  Inc. San Francisco (Card 4719),GITHUB  INC.           SAN FRANCISCOCAUS,Entertainment,Digital Subscriptions,,-127.09,,905.8
+955,11/13/2025,11/13/2025 17:19,Payment Received: B Deppa,B DEPPA,Other Income,Other Income,700,,,1605.8
+956,11/14/2025,11/14/2025 1:00,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-2.91,,1602.89
+957,11/16/2025,11/14/2025 18:15,Recurring Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-37.99,,1564.9
+958,11/17/2025,11/17/2025 1:01,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-2.01,,1562.89
+959,11/19/2025,11/19/2025 10:25,Payment Received: N Tom,N TOM,Other Income,Other Income,300,,,1862.89
+960,11/19/2025,11/19/2025 13:39,Cash Withdrawal: Dnr Bloemfontein Mm2nd Free State Fsza,DNR Bloemfontein MM2nd Free State   FSZA,Cash,Cash Withdrawal,,-100,,1762.89
+961,11/19/2025,11/19/2025 13:39,Cash Withdrawal Fee,Cash Withdrawal Fee,Fees,Fees,,,-10,1752.89
+962,11/21/2025,11/19/2025 16:44,Online Purchase: Mrd Cape Town (Card 4719),MrD                    CAPE TOWN      ZA,Food,Groceries,,-131.65,,1621.24
+963,11/22/2025,11/22/2025 2:25,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8.35,,1612.89
+964,11/22/2025,11/19/2025 13:37,Checkers Bloemfontein (Card 4719),Checkers Mimosa Mall   BLOEMFONTEIN   ZA,Food,Groceries,,-213.84,,1399.05
+965,11/23/2025,11/23/2025 3:05,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-6.16,,1392.89
+966,11/24/2025,11/22/2025 17:56,Online Purchase: Mrd Cape Town (Card 4719),MrD                    CAPE TOWN    WCZA,Food,Groceries,,-146.39,,1246.5
+967,11/24/2025,11/24/2025 10:41,Banking App External PayShap Payment: Limpho (073 068 2435),Limpho |+27-730682435,Personal & Family,Digital Payments,,-100,,1146.5
+968,11/24/2025,11/24/2025 10:41,External PayShap Payment Fee,|Limpho |+27-730682435,Fees,Fees,,,-2,1144.5
+969,11/24/2025,11/24/2025 11:53,Banking App Transfer Received from Second Acc: Transfer,Transfer,Transfer,Transfer,1000,,,2144.5
+970,11/24/2025,11/24/2025 13:38,Cash Withdrawal: Dsr Bloem Plaza 5 Bloemfontein Fsza,DSR  Bloem Plaza 5     BLOEMFONTEIN FSZA,Cash,Cash Withdrawal,,-260,,1884.5
+971,11/24/2025,11/24/2025 13:38,Cash Withdrawal Fee,Cash Withdrawal Fee,Fees,Fees,,,-10,1874.5
+972,11/25/2025,11/24/2025 23:55,Payment Received: 0268 Cut Salary Salary 2811755841,0268      CUT SALARY          SALARY    2811755841,Salary,Salary,1100,,,2974.5
+973,11/25/2025,11/25/2025 8:39,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-3.61,,2970.89
+974,11/26/2025,11/24/2025 22:21,Online Purchase: Busbud London (Card 4719),Busbud                 London       GBGB,Transport,Public Transport,,-440.5,,2530.39
+975,11/26/2025,11/24/2025 13:58,Dreams For Uz Bloemfontein (Card 4719),DREAMS FOR UZ          BLOEMFONTEIN ZAZA,Personal & Family,Personal Care,,-50,,2480.39
+976,11/26/2025,11/24/2025 13:47,Voortrekker Apteek Bloemfontein (Card 4719),VOORTREKKER APTEEK     BLOEMFONTEIN   ZA,Medical,Pharmacy,,-44.9,,2435.49
+977,11/26/2025,11/24/2025 13:44,Mr Price Bloemfontein (Card 4719),MR PRICE- BLOEMFONTEIN BLOEMFONTEIN FSZA,Personal & Family,Clothing & Shoes,,-102.49,,2333
+978,11/26/2025,11/24/2025 14:40,Sportscene Bloemfontein (Card 4719),Sportscene Bloemfontei Bloemfontein   ZA,Personal & Family,Sport & Hobbies,,-199,,2134
+979,11/26/2025,11/26/2025 14:27,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-99,,2035
+980,11/26/2025,11/26/2025 14:27,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,2034.5
+981,11/26/2025,11/26/2025 18:17,Banking App Immediate Payment: Tyran,TYRAN,Personal & Family,Digital Payments,,-60,,1974.5
+982,11/26/2025,11/26/2025 18:17,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,1973.5
+983,11/27/2025,11/27/2025 1:23,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-23.11,,1950.39
+984,11/27/2025,11/25/2025 16:25,Recurring Card Purchase: Github  Inc. San Francisco (Card 4719),GITHUB  INC.           SAN FRANCISCOCAUS,Entertainment,Digital Subscriptions,,-18.64,,1931.75
+985,11/27/2025,11/27/2025 10:50,Banking App External PayShap Payment: Limpho (073 068 2435),Limpho |+27-730682435,Personal & Family,Digital Payments,,-122,,1809.75
+986,11/27/2025,11/27/2025 10:50,External PayShap Payment Fee,|Limpho |+27-730682435,Fees,Fees,,,-2,1807.75
+987,11/27/2025,11/27/2025 18:48,Banking App PayShap Payment: C M**o**e*i (083 427 2283),C M**O**E*I |+27-834272283,Personal & Family,Digital Payments,,-150,,1657.75
+988,11/27/2025,11/27/2025 18:48,PayShap Payment Fee,|C M**O**E*I |+27-834272283,Fees,Fees,,,-1,1656.75
+989,11/27/2025,11/27/2025 18:53,Banking App External PayShap Payment: Limpho (073 068 2435),Limpho |+27-730682435,Personal & Family,Digital Payments,,-105,,1551.75
+990,11/27/2025,11/27/2025 18:53,External PayShap Payment Fee,|Limpho |+27-730682435,Fees,Fees,,,-2,1549.75
+991,11/28/2025,11/28/2025 0:22,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-1.36,,1548.39
+992,11/28/2025,11/26/2025 7:59,Engen Midrand (Card 4719),ENGEN BIG BIRD NORTH   Midrand        ZA,Food,Groceries,,-81.9,,1466.49
+993,11/28/2025,11/28/2025 7:36,Banking App Transfer from Live Better Savings Account (1780225111),Banking App Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,153,,,1619.49
+994,11/29/2025,11/28/2025 7:34,Online Purchase: Busbud London (Card 4719),Busbud                 London       GBGB,Transport,Public Transport,,-470.5,,1148.99
+995,11/29/2025,11/27/2025 13:05,Akti Rosebank Johannesburg (Card 4719),AKTI ROSEBANK          Johannesburg   ZA,Food,Restaurants,,-185,,963.99
+996,11/29/2025,11/29/2025 4:57,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8.1,,955.89
+997,11/29/2025,11/29/2025 19:04,Payment Received: N Tom,N TOM,Other Income,Other Income,700,,,1655.89
+998,11/30/2025,11/30/2025 1:27,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-14.5,,1641.39
+999,11/30/2025,11/27/2025 11:59,Krispy Kreme Johannesburg (Card 4719),KRISPY KREME THE ZONE  JOHANNESBURG   ZA,Food,Takeaways,,-57,,1584.39
+1000,11/30/2025,11/27/2025 13:34,Factorie Rosebank (Card 4719),FACTORIE ROSEBANK  620 ROSEBANK       ZA,Personal & Family,Clothing & Shoes,,-355,,1229.39
+1001,11/30/2025,11/30/2025 13:48,Banking App External PayShap Payment: Limpho (073 068 2435),Limpho |+27-730682435,Personal & Family,Digital Payments,,-215,,1014.39
+1002,11/30/2025,11/30/2025 13:48,External PayShap Payment Fee,|Limpho |+27-730682435,Fees,Fees,,,-2,1012.39
+1003,11/30/2025,11/30/2025 13:49,Banking App Immediate Payment: Tyran,TYRAN,Personal & Family,Digital Payments,,-105,,907.39
+1004,11/30/2025,11/30/2025 13:49,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,906.39
+1005,11/30/2025,11/30/2025 23:01,Interest Received,Interest Received,Interest,Interest,2.8,,,909.19
+1006,11/30/2025,11/30/2025 23:01,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,901.69
+1007,12/1/2025,11/30/2025 23:03,Banking App Prepaid Purchase: Telkom Mobile,Telkom Mobile,Communication,Cellphone,,-50,,851.69
+1008,12/1/2025,11/30/2025 23:03,Prepaid Mobile Purchase Fee,Prepaid Mobile Purchase Fee,Fees,Fees,,,-0.5,851.19
+1009,12/1/2025,11/29/2025 16:52,Fairy Wing Ent Pretoria (Card 4719),Yoco   *Fairy Wing Ent Pretoria     GPZA,Entertainment,Going Out,,-140,,711.19
+1010,12/1/2025,12/1/2025 8:56,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8,,703.19
+1011,12/3/2025,12/1/2025 13:26,Seattle New Road South Midrand (Card 4719),Seattle New Road South MIDRAND      WCZA,Food,Takeaways,,-92,,611.19
+1012,12/3/2025,12/1/2025 13:38,KFC Kyalami Estat (Card 4719),KFC NORTH ROAD SOUTH   Kyalami Estat  ZA,Food,Takeaways,,-59.9,,551.29
+1013,12/4/2025,12/2/2025 12:45,Recurring Card Purchase: Apple.com Cork (Card 4719),APPLE.COM/BILL         CORK         IRIE,Personal & Family,Online Store,,-59.99,,491.3
+1014,12/4/2025,12/4/2025 5:36,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8.1,,483.2
+1015,12/5/2025,12/5/2025 1:20,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.01,,483.19
+1016,12/5/2025,12/3/2025 21:38,Recurring Card Purchase: Github  Inc. San Francisco (Card 4719),GITHUB  INC.           SAN FRANCISCOCAUS,Entertainment,Digital Subscriptions,,-171.66,,311.53
+1017,12/6/2025,12/6/2025 1:42,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8.34,,303.19
+1018,12/9/2025,12/9/2025 10:37,Payment Received: N Tom,N TOM,Other Income,Other Income,1500,,,1803.19
+1019,12/9/2025,12/9/2025 17:17,Capitec Pay Payment: Clicks Online (CAPITEC1765293412859),CAPITEC1765293412859|CLICKS ONLINE,Personal & Family,Personal Care,,-658.99,,1144.2
+1020,12/9/2025,12/9/2025 17:17,Capitec Pay Fee,Capitec Pay Fee,Fees,Fees,,,-1,1143.2
+1021,12/9/2025,12/9/2025 17:39,Payment Received: N Tom,N TOM,Other Income,Other Income,700,,,1843.2
+1022,12/10/2025,12/6/2025 12:04,Checkers Bloemfontein (Card 4719),CC Fresh X Universitas BLOEMFONTEIN   ZA,Food,Groceries,,-106.25,,1736.95
+1023,12/11/2025,12/11/2025 12:58,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-3.75,,1733.2
+1024,12/11/2025,12/11/2025 15:26,Cash Withdrawal: Dsr Bloem Plaza 3 Bloemfontein Fsza,DSR  Bloem Plaza 3     BLOEMFONTEIN FSZA,Cash,Cash Withdrawal,,-100,,1633.2
+1025,12/11/2025,12/11/2025 15:26,Cash Withdrawal Fee,Cash Withdrawal Fee,Fees,Fees,,,-10,1623.2
+1026,12/12/2025,12/12/2025 0:19,Payment Received: 0268 Cut Salary Salary 2854918086,0268      CUT SALARY          SALARY    2854918086,Salary,Salary,1100,,,2723.2
+1027,12/12/2025,12/9/2025 10:43,Online Purchase: Superbalist Cape Town (Card 4719),PP *Superbalist        Cape Town      ZA,Personal & Family,Online Store,,-799,,1924.2
+1028,12/13/2025,12/13/2025 4:48,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-1,,1923.2
+1029,12/13/2025,12/13/2025 17:09,Payment Received: O Morake,O MORAKE,Other Income,Other Income,165,,,2088.2
+1030,12/15/2025,12/13/2025 16:22,McDonalds Willows (Card 4719),MCD Loch Logan  (0298) Willows        ZA,Food,Takeaways,,-321.7,,1766.5
+1031,12/15/2025,12/13/2025 14:57,The Fix Bloemfontein (Card 4719),The Fix Lochlogan      Bloemfontein   ZA,Personal & Family,Clothing & Shoes,,-301.79,,1464.71
+1032,12/16/2025,12/14/2025 18:15,Recurring Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-69.99,,1394.72
+1033,12/16/2025,12/14/2025 18:15,International Processing Fee: Spotifyza,         SpotifyZA              Stockholm      SE|REC_RECURRING_TXN,Fees,Fees,,,-2,1392.72
+1034,12/16/2025,12/16/2025 6:46,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-16.51,,1376.21
+1035,12/17/2025,12/17/2025 1:37,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.01,,1376.2
+1036,12/17/2025,12/13/2025 17:59,Fresko Gelato - Pax Bloemfontein (Card 4719),FRESKO GELATO - PAX    BLOEMFONTEIN   ZA,Food,Restaurants,,-62,,1314.2
+1037,12/18/2025,12/18/2025 9:29,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8,,1306.2
+1038,12/22/2025,12/22/2025 18:06,Adjustment: Fee Github,Fee GITHUB,Uncategorised,Uncategorised,,-2,,1304.2
+1039,12/22/2025,12/22/2025 18:06,Adjustment: Fee Apple.com/bill Purchase On 2 Dec,Fee APPLE.COM/BILL purchase on 2 Dec,Uncategorised,Uncategorised,,-2,,1302.2
+1040,12/22/2025,12/22/2025 18:06,Adjustment: Fee Spotifyza Purchase On 14 Nov,Fee SpotifyZA purchase on 14 Nov,Uncategorised,Uncategorised,,-2,,1300.2
+1041,12/22/2025,12/22/2025 18:09,Adjustment: Fee 2x Busbud Purchases Nov,Fee 2x Busbud purchases Nov,Uncategorised,Uncategorised,,-4,,1296.2
+1042,12/31/2025,12/31/2025 13:19,Payment Received: N Tom,N TOM,Other Income,Other Income,1000,,,2296.2
+1043,12/31/2025,12/31/2025 23:02,Interest Received,Interest Received,Interest,Interest,2.1,,,2298.3
+1044,12/31/2025,12/31/2025 23:02,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,2290.8
+1045,1/2/2026,12/31/2025 14:03,Dis-Chem Bloemfontein (Card 4719),Dischem Loch Logan     BLOEMFONTEIN FSZA,Medical,Pharmacy,,-1330.96,,959.84
+1046,1/2/2026,12/31/2025 13:40,Woolworths Bloemfontein (Card 4719),WOOLWORTHS             BLOEMFONTEIN WCZA,Personal & Family,Clothing & Shoes,,-263.47,,696.37
+1047,1/3/2026,1/3/2026 3:34,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-15.57,,680.8
+1048,1/4/2026,1/2/2026 12:47,Recurring Card Purchase: Apple.com Cork (Card 4719),APPLE.COM/BILL         CORK         IRIE,Personal & Family,Online Store,,-59.99,,620.81
+1049,1/4/2026,1/2/2026 12:47,International Processing Fee: Apple.com/bill,         APPLE.COM/BILL         CORK           IE|REC_RECURRING_TXN,Fees,Fees,,,-2,618.81
+1050,1/5/2026,1/5/2026 0:54,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.01,,618.8
+1051,1/5/2026,1/3/2026 20:31,Recurring Card Purchase: Github  Inc. San Francisco (Card 4719),GITHUB  INC.           SAN FRANCISCOCAUS,Entertainment,Digital Subscriptions,,-166.05,,452.75
+1052,1/5/2026,1/3/2026 20:31,International Processing Fee: Github  Inc.,         GITHUB  INC.           SAN FRANCISCO  US|REC_RECURRING_TXN,Fees,Fees,,,-2,450.75
+1053,1/6/2026,1/6/2026 1:02,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-3.95,,446.8
+1054,1/15/2026,1/13/2026 14:44,Online Purchase: Mrd Cape Town (Card 4719),MrD                    CAPE TOWN    WCZA,Food,Takeaways,,-187.48,,259.32
+1055,1/16/2026,1/14/2026 18:15,Recurring Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-69.99,,189.33
+1056,1/16/2026,1/14/2026 18:15,International Processing Fee: Spotifyza,         SpotifyZA              Stockholm      SE|REC_RECURRING_TXN,Fees,Fees,,,-2,187.33
+1057,1/16/2026,1/16/2026 1:53,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-2.52,,184.81
+1058,1/17/2026,1/17/2026 1:06,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.01,,184.8
+1059,1/17/2026,1/17/2026 13:05,Banking App Transfer from Live Better Savings Account (1780225111),Banking App Transfer from Live Better Savings Account (1780225111),Transfer,Transfer,99,,,283.8
+1060,1/21/2026,1/17/2026 14:20,Checkers Bloemfontein (Card 4719),CC Fresh X Universitas BLOEMFONTEIN   ZA,Food,Groceries,,-71.96,,211.84
+1061,1/22/2026,1/22/2026 1:32,Notice Transfer Received,2466673459,Other Income,Other Income,1500,,,1711.84
+1062,1/22/2026,1/22/2026 6:58,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-8.04,,1703.8
+1063,1/22/2026,1/22/2026 8:14,Banking App Immediate Payment: Noxolo,NOXOLO,Personal & Family,Digital Payments,,-1500,,203.8
+1064,1/22/2026,1/22/2026 8:14,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,202.8
+1065,1/23/2026,1/23/2026 10:27,Payment Received: N Tom,N TOM,Other Income,Other Income,500,,,702.8
+1066,1/23/2026,1/23/2026 19:35,Payment Received: N Tom,N TOM,Other Income,Other Income,200,,,902.8
+1067,1/24/2026,1/21/2026 12:34,Checkers Bloemfontein (Card 4719),CC Fresh X Universitas BLOEMFONTEIN   ZA,Food,Groceries,,-104.24,,798.56
+1068,1/25/2026,1/25/2026 1:29,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-5.76,,792.8
+1069,1/26/2026,1/24/2026 8:58,Online Purchase: Host* Smarterasp.net Yuen Long (Card 4719),HOST* SMARTERASP.NET   YUEN LONG    NEHK,Uncategorised,Uncategorised,,-267.75,,525.05
+1070,1/26/2026,1/24/2026 8:58,International Processing Fee: Host* Smarterasp.net,         HOST* SMARTERASP.NET   YUEN LONG      HK|ECO_ECOMMERCE_TXN,Fees,Fees,,,-2,523.05
+1071,1/26/2026,1/24/2026 19:16,Online Purchase: Mrd Cape Town (Card 4719),MrD                    CAPE TOWN      ZA,Food,Takeaways,,-123.2,,399.85
+1072,1/27/2026,1/27/2026 1:45,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-9.05,,390.8
+1073,1/31/2026,1/31/2026 23:31,Interest Received,Interest Received,Interest,Interest,0.85,,,391.65
+1074,1/31/2026,1/31/2026 23:31,Monthly Account Admin Fee,Monthly Account Admin Fee,Fees,Fees,,,-7.5,384.15
+1075,2/4/2026,2/2/2026 12:46,Recurring Card Purchase: Apple.com Cork (Card 4719),APPLE.COM/BILL         CORK         IRIE,Personal & Family,Online Store,,-59.99,,324.16
+1076,2/4/2026,2/2/2026 12:46,International Processing Fee,International Processing Fee,Fees,Fees,,,-2,322.16
+1077,2/5/2026,2/5/2026 2:26,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.01,,322.15
+1078,2/5/2026,2/3/2026 20:47,Recurring Card Purchase: Github  Inc. San Francisco (Card 4719),GITHUB  INC.           SAN FRANCISCOCAUS,Entertainment,Digital Subscriptions,,-163.18,,158.97
+1079,2/5/2026,2/3/2026 20:47,International Processing Fee,International Processing Fee,Fees,Fees,,,-2,156.97
+1080,2/6/2026,2/6/2026 2:16,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-6.82,,150.15
+1081,2/13/2026,2/13/2026 16:54,Immediate Notice Transfer Received,2466673459,Other Income,Other Income,1000,,,1150.15
+1082,2/14/2026,2/14/2026 20:29,ATM Cash Withdrawal: Dnr Bloemfontein Mimosabloemfontein Fsza,DNR Bloemfontein MimosaBloemfontein FSZA,Cash,Cash Withdrawal,,-50,,1100.15
+1083,2/14/2026,2/14/2026 20:29,ATM Cash Withdrawal Fee,ATM Cash Withdrawal Fee,Fees,Fees,,,-10,1090.15
+1084,2/16/2026,2/14/2026 18:15,Recurring Card Purchase: Spotify Stockholm (Card 4719),SpotifyZA              Stockholm    SWSE,Entertainment,Digital Subscriptions,,-69.99,,1020.16
+1085,2/16/2026,2/14/2026 18:15,International Processing Fee: Spotifyza,         SpotifyZA              Stockholm      SE|REC_RECURRING_TXN,Fees,Fees,,,-2,1018.16
+1086,2/16/2026,2/14/2026 15:08,Ster Kinekor Bloemfontein (Card 4719),STERKINEKOR MIMOSA     Bloemfontein   ZA,Entertainment,Movies,,-210,,808.16
+1087,2/16/2026,2/14/2026 15:03,Ster Kinekor Bloemfontein (Card 4719),STERKINEKOR MIMOSA     Bloemfontein   ZA,Entertainment,Movies,,-219.8,,588.36
+1088,2/17/2026,2/17/2026 1:42,Live Better Round-up Transfer,Round-up Transfer,Transfer,Transfer,,-0.21,,588.15
+1089,2/19/2026,2/19/2026 8:57,Banking App Immediate Payment: Mo,MO,Personal & Family,Digital Payments,,-50,,538.15
+1090,2/19/2026,2/19/2026 8:57,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,537.15
+1091,2/19/2026,2/19/2026 12:53,Banking App Immediate Payment: Cab,CAB,Personal & Family,Digital Payments,,-52,,485.15
+1092,2/19/2026,2/19/2026 12:53,Immediate Payment Fee,Immediate Payment Fee,Fees,Fees,,,-1,484.15
+1093,2/23/2026,2/23/2026 6:09,Immediate Notice Transfer Received,2466673459,Other Income,Other Income,500,,,984.15
+1094,2/25/2026,2/23/2026 6:16,Online Purchase: Dis-Chem Cape Town (Card 4719),Dischem Pharmacies     Cape Town    ZAZA,Medical,Pharmacy,,-769.23,,214.92
