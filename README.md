@@ -7,7 +7,7 @@ A web application that analyzes bank statements and detects spending anomalies u
 ## 🚀 Quick Start (GitHub Pages - Recommended)
 
 ### Live Demo
-Visit: `https://codedbyttom-lab.github.io/origin/`
+Visit: `https://codedbyttom-lab.github.io/-bank-statement-analyzer/`
 
 ### How to Use
 1. Open the web application
