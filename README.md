@@ -64,7 +64,7 @@ pip install pandas scikit-learn matplotlib
 
 1. Clone the repository.
 2. Place your bank statement CSV file in the project directory.
-3. Ensure the CSV contains the required columns:
+3. Ensure the CSV is a Capetic csv that contains the required columns:
    - `Description`
    - `Category`
    - `Money In`
@@ -74,7 +74,7 @@ pip install pandas scikit-learn matplotlib
 
 ## Limitations
 
-- The project currently processes CSV files rather than directly connecting to banking services.
+- The project currently processes only Capitec csv files.
 - Transaction classification depends on the availability and quality of labelled training data.
 - Anomaly detection identifies statistically unusual transaction amounts; it does not determine whether a transaction is fraudulent.
 - Anomaly detection is only performed for categories containing at least ten expenditure transactions.
