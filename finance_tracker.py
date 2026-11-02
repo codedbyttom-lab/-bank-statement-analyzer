@@ -2,7 +2,7 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.model_selection import train_test_split
 from sklearn.svm import LinearSVC
-from sklearn.metrics import accuracy_score, classification_report
+from sklearn.metrics import accuracy_score
 import matplotlib.pyplot as plt
 
 
@@ -58,7 +58,7 @@ sizes = list(top3) + [other_total]
 plt.pie(sizes, labels=labels, autopct="%1.1f%%", startangle=80)
 
 plt.title("Top 3 Spending Categories + Other")
-# plt.show()
+plt.show()
 
 for category in sheet["Category"].unique():
   category_df = sheet[sheet["Category"]== category]
@@ -103,7 +103,7 @@ anomalies = df[df["Anomaly"] == -1]
 
 
 print(anomalies.sort_values("Money Out", ascending=False).head(10))
-
+print("Accuracy:", accuracy_score(y_test, y_pred))
 
 
 

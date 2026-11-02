@@ -1,104 +1,81 @@
-# Bank Statement Analysis Web Application
+# Personal Finance Tracker & Transaction Analysis
 
-A web application that analyzes bank statements and detects spending anomalies using machine learning. Available in two versions:
-- **Client-Side Version**: Pure JavaScript running entirely in your browser (GitHub Pages)
-- **Server-Side Version**: Python Flask backend with ML capabilities
+## Overview
 
-## 🚀 Quick Start (GitHub Pages - Recommended)
+A Python-based personal finance analysis project that processes bank statement data to provide insights into income, expenditure, spending patterns and unusual transactions.
 
-### Live Demo
-Visit: `https://codedbyttom-lab.github.io/origin/`
+The project uses machine learning to automatically categorise transactions based on their descriptions and applies anomaly detection to identify transactions that differ significantly from typical spending within their respective categories.
 
-### How to Use
-1. Open the web application
-2. Drag & drop your CSV bank statement or click to upload
-3. View instant analysis with:
-   - Total income and expenditure
-   - Top transactions by amount
-   - Spending breakdown by category (pie chart)
-   - Anomaly detection in spending patterns
+## Features
 
-### CSV Format Required
-Your CSV should contain these columns:
-- **Transaction Date** or **Posting Date**
-- **Description**
-- **Money In**
-- **Money Out**
-- **Category**
-- Fee (optional)
-- Balance (optional)
+- **Bank Statement Processing:** Reads and processes transaction data from a CSV bank statement.
+- **Data Cleaning:** Handles missing values, prepares transaction amounts and removes records without category labels.
+- **Transaction Classification:** Uses TF-IDF vectorisation and a Linear Support Vector Classifier (LinearSVC) to categorise transactions based on their descriptions.
+- **Financial Summary:** Calculates total income, total expenditure and net balance.
+- **Spending Analysis:** Groups expenditure by category and identifies the highest spending categories.
+- **Data Visualisation:** Uses Matplotlib to display the distribution of spending across categories.
+- **Anomaly Detection:** Applies Isolation Forest separately to eligible spending categories to identify unusually large transactions.
 
-### Privacy & Security
-✅ All processing happens in your browser  
-✅ No data is sent to any server  
-✅ No data is stored permanently  
-✅ Works completely offline after initial load
+## Technologies Used
 
----
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
 
-## 🐍 Alternative: Flask Server Setup
+Machine Learning Techniques
 
-### 1. Install Dependencies
+| Technique | Purpose |
+| TF-IDF | Converts transaction descriptions into numerical features. |
+| LinearSVC | Classifies transactions into spending categories. |
+| Isolation Forest | Identifies unusual transaction amounts within spending categories. |
+
+## How It Works
+
+1. Data Processing
+The project loads bank statement data from a CSV file using Pandas. Missing monetary values are handled, transaction amounts are standardised, and records without category labels are excluded from the classification dataset.
+
+2. Transaction Classification
+Transaction descriptions are converted into numerical representations using TF-IDF vectorisation. A LinearSVC model is trained using the labelled transactions to predict spending categories.
+
+3. Financial Analysis
+The processed data is used to calculate:
+
+- Total income
+- Total expenditure, including fees
+- Net balance
+- Spending totals per category
+
+4. Spending Visualisation
+A pie chart displays the distribution of expenditure across the five highest spending categories, with the remaining categories grouped under "Other".
+
+5. Anomaly Detection
+Isolation Forest models are trained separately for each spending category containing at least ten transactions. The models identify transaction amounts that differ from the typical spending patterns within those categories.
+
+## Requirements
+
+Install the required Python libraries:
+
 ```bash
-pip install -r requirements.txt
+pip install pandas scikit-learn matplotlib
 ```
 
-### 2. Run the Application
-```bash
-python app.py
-```
+## Running the Project
 
-### 3. Access the Application
-```
-http://localhost:5000
-```
+1. Clone the repository.
+2. Place your bank statement CSV file in the project directory.
+3. Ensure the CSV contains the required columns:
+   - `Description`
+   - `Category`
+   - `Money In`
+   - `Money Out`
+   - `Fee`
+4. Run the Python script.
 
----
+## Limitations
 
-## 📁 Folder Structure
-```
-Bank/
-├── app.py              # Flask backend (server version)
-├── category.py         # Standalone analysis script
-├── Layout/             # Frontend files
-│   ├── index.html      # Upload page (GitHub Pages entry)
-│   ├── homepage.html   # Dashboard page
-│   ├── upload.css      # Upload page styles
-│   ├── homepage.css    # Dashboard styles
-│   ├── analysis.js     # Client-side ML engine
-│   ├── upload.js       # Upload page logic
-│   ├── dashboard.js    # Dashboard logic
-│   └── assets/         # Images and other assets
-└── requirements.txt    # Python dependencies
-```
-
-## ✨ Features
-- 📤 CSV file upload with drag & drop interface
-- 🎯 Automatic transaction categorization
-- 📊 Spending analysis by category with pie chart
-- 🔍 Anomaly detection using statistical methods (Z-score)
-- 📈 Interactive dashboard with visual progress bars
-- 🎨 Modern glassmorphism UI design
-- 💻 Client-side processing (no backend required)
-
-## 🛠️ Technologies
-
-**Client-Side Version:**
-- Pure JavaScript (ES6+)
-- PapaParse (CSV parsing)
-- Z-score anomaly detection
-- LocalStorage for data persistence
-
-**Server-Side Version:**
-- Python Flask
-- scikit-learn (TF-IDF, LinearSVC, Isolation Forest)
-- pandas (data processing)
-
----
-
-## 📝 GitHub Pages Deployment
-
-This project is configured to run on GitHub Pages at:
-`https://codedbyttom-lab.github.io/origin/`
-
-All files in the `/Layout` folder are served as static content with client-side processing.
+- The project currently processes CSV files rather than directly connecting to banking services.
+- Transaction classification depends on the availability and quality of labelled training data.
+- Anomaly detection identifies statistically unusual transaction amounts; it does not determine whether a transaction is fraudulent.
+- Anomaly detection is only performed for categories containing at least ten expenditure transactions.
+- The current implementation analyses one statement dataset at a time.
